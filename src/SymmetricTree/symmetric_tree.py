@@ -49,9 +49,6 @@
 class Solution:
     # @param root, a tree node
     # @return a boolean
-    def __init__(self):
-        pass
-
     def is_symmetric(self, root):
         if root is None:
             return True
