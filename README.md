@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-LeetCode C++ Solutions
+LeetCode Python Solutions
 
 | Title | Solution | Add Date | Difficulty |
 | ----- | -------- | -------- | ---------- |
