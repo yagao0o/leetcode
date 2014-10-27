@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-LeetCode Python Solutions
+LeetCode Python Solutions by Yagao0o
 
 | Title | Solution | Solve Date | Add Date | Difficulty |
 | ----- | -------- | ---------- | -------- | ---------- |
