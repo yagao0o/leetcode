@@ -127,4 +127,35 @@ LeetCode Python Solutions
 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| |2012/3/3|Easy|
 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| |2012/3/3|Medium|
 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| |2012/3/2|Medium|
-|[Search in Rotated So
+|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| |2012/3/2|Hard|
+|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| |2012/2/29|Hard|
+|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| |2012/2/25|Medium|
+|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| |2012/2/23|Hard|
+|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| |2012/2/18|Medium|
+|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| |2012/2/18|Easy|
+|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| |2012/2/16|Easy|
+|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| |2012/2/16|Easy|
+|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| |2012/2/15|Hard|
+|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| |2012/2/14|Medium|
+|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| |2012/2/13|Hard|
+|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| |2012/2/12|Medium|
+|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| |2012/1/30|Easy|
+|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| |2012/1/27|Easy|
+|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| |2012/1/26|Medium|
+|[4Sum](https://oj.leetcode.com/problems/4sum/)| |2012/1/26|Medium|
+|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| |2012/1/18|Medium|
+|[3Sum](https://oj.leetcode.com/problems/3sum/)| |2012/1/17|Medium|
+|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| |2012/1/17|Easy|
+|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| |2012/1/15|Easy|
+|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| |2012/1/15|Medium|
+|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| |2012/1/8|Medium|
+|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| |2012/1/8|Hard|
+|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| |2012/1/4|Easy|
+|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| |2011/12/26|Easy|
+|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| |2011/12/25|Easy|
+|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| |2011/12/5|Easy|
+|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| |2011/11/11|Medium|
+|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| |2011/11/1|Medium|
+|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| |2011/5/15|Medium|
+|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| |2011/3/27|Hard|
+|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| |2011/3/13|Medium|
