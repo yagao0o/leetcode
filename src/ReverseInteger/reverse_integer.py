@@ -27,22 +27,22 @@
 class Solution:
     # @return an integer
     def reverse(self, x):
-        number_string = str(x)
-        result_string = []
-        if number_string[0] == '-':
-            result_string.append('-')
-            number_string = number_string[1:]
-        is_start = True
-        for count in range(len(number_string)):
-            char = number_string[len(number_string) - 1 - count]
-            if not(char == '0' and is_start):
-                result_string.append(char)
-                is_start = False
-        result = eval(''.join(result_string))
+        if x < 0:
+            is_negative = -1
+        else:
+            is_negative = 1
+        x = x * is_negative
+        result = 0
+        while x > 0:
+            last = x % 10
+            result = result * 10 + last
+            x = (x - last) / 10
+        result = result * is_negative
         return result
 
-a = Solution()
-print a.reverse(123)
-print a.reverse(745)
-print a.reverse(-123.1600)
-print a.reverse( -122025)
+x = Solution()
+print x.reverse(1231)
+print x.reverse(-56314)
+print x.reverse(-5602100)
+print x.reverse(654100)
+print x.reverse(12111111111111111113)
