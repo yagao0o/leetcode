@@ -151,7 +151,7 @@ LeetCode Python Solutions by Yagao0o
 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| | |2012/1/8|Medium|
 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| | |2012/1/8|Hard|
 |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| | |2012/1/4|Easy|
-|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| | |2011/12/26|Easy|
+|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Python](./src/StringToInteger/string_to_integer.py)|2014/11/3 |2011/12/26|Easy|
 |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./src/ReverseInteger/reverse_integer.py) |2014/11/1 |2011/12/25|Easy|
 |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| | |2011/12/5|Easy|
 |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| | |2011/11/11|Medium|
