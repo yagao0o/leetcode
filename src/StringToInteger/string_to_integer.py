@@ -1,5 +1,5 @@
 # Author  :  Yagao0o
-# Date    :  2014-10-27
+# Date    :  2014-11-3
 # Source  :  https://oj.leetcode.com/problems/string-to-integer-atoi/
 
 # Implement atoi to convert a string to an integer.

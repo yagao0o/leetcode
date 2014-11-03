@@ -1,5 +1,5 @@
 # Author  :  Yagao0o
-# Date    :  2014-10-27
+# Date    :  2014-11-1
 # Source  :  https://oj.leetcode.com/problems/reverse-integer/
 
 # Reverse digits of an integer.

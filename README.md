@@ -150,9 +150,9 @@ LeetCode Python Solutions by Yagao0o
 |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| | |2012/1/15|Medium|
 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| | |2012/1/8|Medium|
 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| | |2012/1/8|Hard|
-|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| | |2012/1/4|Easy|
+|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Python](./src/PalindromeNumber/palindrome_number.py)| 2014/11/4|2012/1/4|Easy|
 |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Python](./src/StringToInteger/string_to_integer.py)|2014/11/3 |2011/12/26|Easy|
-|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./src/ReverseInteger/reverse_integer.py) |2014/11/1 |2011/12/25|Easy|
+|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./src/ReverseInteger/reverse_integer.py)|2014/11/1 |2011/12/25|Easy|
 |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| | |2011/12/5|Easy|
 |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| | |2011/11/11|Medium|
 |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| | |2011/11/1|Medium|
