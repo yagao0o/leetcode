@@ -39,10 +39,3 @@ class Solution:
             x = (x - last) / 10
         result = result * is_negative
         return result
-
-x = Solution()
-print x.reverse(1231)
-print x.reverse(-56314)
-print x.reverse(-5602100)
-print x.reverse(654100)
-print x.reverse(12111111111111111113)
