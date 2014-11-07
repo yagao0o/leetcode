@@ -146,8 +146,8 @@ LeetCode Python Solutions by Yagao0o
 |[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| | |2012/1/18|Medium|
 |[3Sum](https://oj.leetcode.com/problems/3sum/)| | |2012/1/17|Medium|
 |[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| | |2012/1/17|Easy|
-|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| | |2012/1/15|Easy|
-|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| | |2012/1/15|Medium|
+|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[Python](./src/RomanToInteger/roman_to_integer.py)|2014/11/6|2012/1/15|Easy|
+|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)|[Python](./src/IntegerToRoman/integer_to_roman.py)|2014/11/7|2012/1/15|Medium|
 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| | |2012/1/8|Medium|
 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| | |2012/1/8|Hard|
 |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Python](./src/PalindromeNumber/palindrome_number.py)| 2014/11/4|2012/1/4|Easy|
