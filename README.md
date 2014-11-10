@@ -5,6 +5,7 @@ LeetCode Python Solutions by Yagao0o
 
 | Title | Solution | Solve Date | Add Date | Difficulty |
 | ----- | -------- | ---------- | -------- | ---------- |
+|[Min Stack](https://oj.leetcode.com/problems/min-stack/)|[Python](./src/MinStack/min_stack.py)|2014/11/10 |2014/11/9|Easy|
 |[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| | |2014/10/20|Hard|
 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| | |2014/10/15|Medium|
 |[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| | |2014/9/23|Medium|
