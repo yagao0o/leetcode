@@ -48,7 +48,7 @@ LeetCode Python Solutions by Yagao0o
 |[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)| | |2012/10/18|Hard|
 |[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| | |2012/10/14|Medium|
 |[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)| | |2012/10/14|Medium|
-|[Path Sum](https://oj.leetcode.com/problems/path-sum/)| | |2012/10/13|Easy|
+|[Path Sum](https://oj.leetcode.com/problems/path-sum/)|[Python](./src/PathSum/path_sum.py)|2014/11/16|2012/10/13|Easy|
 |[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)| | |2012/10/9|Easy|
 |[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| | |2012/10/8|Easy|
 |[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| | |2012/10/2|Medium|
