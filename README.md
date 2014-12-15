@@ -93,7 +93,7 @@ LeetCode Python Solutions by Yagao0o
 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| | |2012/4/3|Easy|
 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| | |2012/4/3|Medium|
 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)| | |2012/4/3|Hard|
-|[Plus One](https://oj.leetcode.com/problems/plus-one/)| | |2012/4/2|Easy|
+|[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Python](./src/PlusOne/plus_one.py)|2014/12/15|2012/4/2|Easy|
 |[Valid Number](https://oj.leetcode.com/problems/valid-number/)| | |2012/4/2|Easy|
 |[Add Binary](https://oj.leetcode.com/problems/add-binary/)| | |2012/4/2|Easy|
 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| | |2012/3/30|Easy|
