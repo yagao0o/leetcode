@@ -153,8 +153,8 @@ LeetCode Python Solutions by Yagao0o
 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| | |2012/1/8|Hard|
 |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Python](./src/PalindromeNumber/palindrome_number.py)| 2014/11/4|2012/1/4|Easy|
 |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Python](./src/StringToInteger/string_to_integer.py)|2014/11/3 |2011/12/26|Easy|
-|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./src/ReverseInteger/reverse_integer.py)|2014/11/1 |2011/12/25|Easy|
-|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| | |2011/12/5|Easy|
+|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./src/ReverseInteger/reverse_integer.py)|2014/11/01|2011/12/25|Easy|
+|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|[Python](./src/ZigZagConversion/zigzag_conversion.py)|2015/01/06|2011/12/5|Easy|
 |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| | |2011/11/11|Medium|
 |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| | |2011/11/1|Medium|
 |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| | |2011/5/15|Medium|
