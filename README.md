@@ -134,7 +134,7 @@ LeetCode Python Solutions by Yagao0o
 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| | |2012/2/23|Hard|
 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| | |2012/2/18|Medium|
 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| | |2012/2/18|Easy|
-|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| | |2012/2/16|Easy|
+|[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Python](./src/RemoveElement/remove_element.py)|2015/01/22|2012/2/16|Easy|
 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./src/RemoveDuplicatesFromSortedArray/remove_duplicates_from_sorted_array.py)|2015/01/22|2012/2/16|Easy|
 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| | |2012/2/15|Hard|
 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| | |2012/2/14|Medium|
