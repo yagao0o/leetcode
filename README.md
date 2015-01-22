@@ -95,7 +95,7 @@ LeetCode Python Solutions by Yagao0o
 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)| | |2012/4/3|Hard|
 |[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Python](./src/PlusOne/plus_one.py)|2014/12/15|2012/4/2|Easy|
 |[Valid Number](https://oj.leetcode.com/problems/valid-number/)| | |2012/4/2|Easy|
-|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| | |2012/4/2|Easy|
+|[Add Binary](https://oj.leetcode.com/problems/add-binary/)|[Python](./src/AddBinary/add_binary.py)|2015/01/22|2012/4/2|Easy|
 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./src/MergeTwoSortedLists/merge_two_sorted_lists.py)|2015/01/06|2012/3/30|Easy|
 |[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| | |2012/3/28|Medium|
 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| | |2012/3/28|Medium|
