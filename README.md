@@ -103,7 +103,7 @@ LeetCode Python Solutions by Yagao0o
 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| | |2012/3/27|Medium|
 |[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| | |2012/3/27|Medium|
 |[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| | |2012/3/27|Medium|
-|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| | |2012/3/27|Easy|
+|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[Python](./src/LengthOfLastWord/length_of_last_word.py)|2015/01/22|2012/3/27|Easy|
 |[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| | |2012/3/27|Hard|
 |[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| | |2012/3/26|Hard|
 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)| | |2012/3/24|Medium|
