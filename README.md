@@ -125,7 +125,7 @@ LeetCode Python Solutions by Yagao0o
 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| | |2012/3/6|Medium|
 |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[Python](./src/CountAndSay/count_and_say.py)|2014/10/27|2012/3/5|Easy|
 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| | |2012/3/4|Hard|
-|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| | |2012/3/3|Easy|
+|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)|[Python](./src/ValidSudoku/valid_sudoku.py)|2015/01/22|2012/3/3|Easy|
 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| | |2012/3/3|Medium|
 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| | |2012/3/2|Medium|
 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| | |2012/3/2|Hard|
