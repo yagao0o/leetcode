@@ -58,7 +58,7 @@ LeetCode Python Solutions by Yagao0o
 |[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| | |2012/9/30|Medium|
 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](./src/MaxDepOfBinaryTree/max_dep_of_binary_tree.py)|2014/11/16|2012/9/29|Easy|
 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| | |2012/9/28|Medium|
-|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| | |2012/9/28|Easy|
+|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](src/BinaryTreeLevelOrderTraversal/binary_tree_level_order_traversal.py)|2015/01/23|2012/9/28|Easy|
 |[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)|[Python](./src/SymmetricTree/symmetric_tree.py)|2014/10/27|2012/9/23|Easy|
 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)|[Python](./src/SameTree/same_tree.py)|2015/01/23|2012/9/3|Easy|
 |[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| | |2012/9/1|Hard|
