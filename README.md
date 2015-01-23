@@ -60,7 +60,7 @@ LeetCode Python Solutions by Yagao0o
 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| | |2012/9/28|Medium|
 |[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| | |2012/9/28|Easy|
 |[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)|[Python](./src/SymmetricTree/symmetric_tree.py)|2014/10/27|2012/9/23|Easy|
-|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| | |2012/9/3|Easy|
+|[Same Tree](https://oj.leetcode.com/problems/same-tree/)|[Python](./src/SameTree/same_tree.py)|2015/01/23|2012/9/3|Easy|
 |[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| | |2012/9/1|Hard|
 |[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| | |2012/8/31|Medium|
 |[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| | |2012/8/30|Hard|
