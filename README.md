@@ -72,7 +72,7 @@ LeetCode Python Solutions by Yagao0o
 |[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| | |2012/6/25|Medium|
 |[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)| | |2012/6/25|Medium|
 |[Gray Code](https://oj.leetcode.com/problems/gray-code/)| | |2012/5/20|Medium|
-|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| | |2012/5/20|Easy|
+|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)|[Python](./src/MergeSortedArray/merge_sorted_array.py)|2015/01/23|2012/5/20|Easy|
 |[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| | |2012/4/30|Hard|
 |[Partition List](https://oj.leetcode.com/problems/partition-list/)| | |2012/4/30|Medium|
 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| | |2012/4/23|Hard|
