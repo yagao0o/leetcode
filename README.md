@@ -3,161 +3,180 @@ LeetCode
 
 LeetCode Python Solutions by Yagao0o
 
-| Title | Solution | Solve Date | Add Date | Difficulty |
-| ----- | -------- | ---------- | -------- | ---------- |
-|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./src/IntersectionOfTwoLinkedLists/intersection_of_two_linked_lists.py)|2015/01/23||Easy|
-|[Min Stack](https://oj.leetcode.com/problems/min-stack/)|[Python](./src/MinStack/min_stack.py)|2014/11/10 |2014/11/9|Easy|
-|[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| | |2014/10/20|Hard|
-|[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| | |2014/10/15|Medium|
-|[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)| | |2014/9/23|Medium|
-|[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| | |2014/3/5|Medium|
-|[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| | |2013/11/27|Medium|
-|[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| | |2013/11/22|Hard|
-|[Sort List](https://oj.leetcode.com/problems/sort-list/)| | |2013/11/16|Medium|
-|[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| | |2013/11/12|Medium|
-|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| | |2013/11/9|Hard|
-|[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| | |2013/11/7|Hard|
-|[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| | |2013/11/5|Medium|
-|[Reorder List](https://oj.leetcode.com/problems/reorder-list/)| | |2013/11/2|Medium|
-|[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)| | |2013/10/30|Medium|
-|[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)| | |2013/10/28|Medium|
-|[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)| | |2013/10/5|Hard|
-|[Word Break](https://oj.leetcode.com/problems/word-break/)| | |2013/10/4|Medium|
-|[Copy List with Random Pointer](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)| | |2013/10/3|Hard|
-|[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)| | |2013/10/2|Medium|
-|[Single Number](https://oj.leetcode.com/problems/single-number/)| | |2013/10/1|Medium|
-|[Candy](https://oj.leetcode.com/problems/candy/)| | |2013/9/30|Hard|
-|[Gas Station](https://oj.leetcode.com/problems/gas-station/)| | |2013/9/28|Medium|
-|[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)| | |2013/9/24|Medium|
-|[Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)| | |2013/2/28|Hard|
-|[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)| | |2013/2/27|Medium|
-|[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)| | |2013/2/21|Medium|
-|[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)| | |2013/2/18|Medium|
-|[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)| | |2013/2/13|Hard|
-|[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)| | |2013/2/10|Hard|
-|[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)| | |2013/2/10|Medium|
-|[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)|[Python](./src/ValidPalindrome/valid_palindrome.py)|2013/11/5|2013/1/12|Easy|
-|[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)| | |2012/11/7|Hard|
-|[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| | |2012/11/6|Hard|
-|[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| | |2012/10/30|Medium|
-|[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)| | |2012/10/30|Medium|
-|[Triangle](https://oj.leetcode.com/problems/triangle/)| | |2012/10/29|Medium|
-|[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)|[Python](./src/PascalTriangleII/pascal_triangle_II.py)|2014/11/10|2012/10/28|Easy|
-|[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)|[Python](./src/PascalTriangleI/pascal_triangle_I.py)|2014/11/10|2012/10/28|Easy|
-|[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| | |2012/10/28|Hard|
-|[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| | |2012/10/28|Medium|
-|[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)| | |2012/10/18|Hard|
-|[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)| | |2012/10/14|Medium|
-|[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)|[Python](./src/PathSumII/path_sum_II.py)|2014/11/16|2012/10/14|Medium|
-|[Path Sum](https://oj.leetcode.com/problems/path-sum/)|[Python](./src/PathSum/path_sum.py)|2014/11/16|2012/10/13|Easy|
-|[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./src/MinDepOfBinaryTree/min_dep_of_binary_tree.py)|2014/11/16|2012/10/9|Easy|
-|[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)| | |2012/10/8|Easy|
-|[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| | |2012/10/2|Medium|
-|[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| | |2012/10/2|Medium|
-|[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](./src/BinaryTreeLevelOrderTraversalII/binary_tree_level_order_traversal_ii.py)|2015/01/23|2012/10/1|Easy|
-|[Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| | |2012/9/30|Medium|
-|[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| | |2012/9/30|Medium|
-|[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](./src/MaxDepOfBinaryTree/max_dep_of_binary_tree.py)|2014/11/16|2012/9/29|Easy|
-|[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| | |2012/9/28|Medium|
-|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](src/BinaryTreeLevelOrderTraversal/binary_tree_level_order_traversal.py)|2015/01/23|2012/9/28|Easy|
-|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)|[Python](./src/SymmetricTree/symmetric_tree.py)|2014/10/27|2012/9/23|Easy|
-|[Same Tree](https://oj.leetcode.com/problems/same-tree/)|[Python](./src/SameTree/same_tree.py)|2015/01/23|2012/9/3|Easy|
-|[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| | |2012/9/1|Hard|
-|[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| | |2012/8/31|Medium|
-|[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| | |2012/8/30|Hard|
-|[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)| | |2012/8/27|Medium|
-|[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)| | |2012/8/27|Medium|
-|[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)| | |2012/8/27|Medium|
-|[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| | |2012/8/7|Medium|
-|[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)| | |2012/6/27|Medium|
-|[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| | |2012/6/25|Medium|
-|[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)| | |2012/6/25|Medium|
-|[Gray Code](https://oj.leetcode.com/problems/gray-code/)| | |2012/5/20|Medium|
-|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)|[Python](./src/MergeSortedArray/merge_sorted_array.py)|2015/01/23|2012/5/20|Easy|
-|[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| | |2012/4/30|Hard|
-|[Partition List](https://oj.leetcode.com/problems/partition-list/)| | |2012/4/30|Medium|
-|[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| | |2012/4/23|Hard|
-|[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| | |2012/4/22|Hard|
-|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](./src/RemoveDuplicatesFromSortedListII/remove_duplicates_from_sorted_list_ii.py)|2015/01/23|2012/4/22|Medium|
-|[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](./src/RemoveDuplicatesFromSortedList/remove_duplicates_from_sorted_list.py)|2015/01/23|2012/4/22|Easy|
-|[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| | |2012/4/19|Medium|
-|[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| | |2012/4/19|Medium|
-|[Word Search](https://oj.leetcode.com/problems/word-search/)| | |2012/4/18|Medium|
-|[Subsets](https://oj.leetcode.com/problems/subsets/)| | |2012/4/18|Medium|
-|[Combinations](https://oj.leetcode.com/problems/combinations/)| | |2012/4/18|Medium|
-|[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)| | |2012/4/15|Hard|
-|[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)| | |2012/4/8|Medium|
-|[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)| | |2012/4/6|Medium|
-|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| | |2012/4/5|Medium|
-|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| | |2012/4/4|Hard|
-|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| | |2012/4/3|Medium|
-|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Python](./src/ClimbingStairs/climbling_stairs.py)|2015/01/23|2012/4/3|Easy|
-|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| | |2012/4/3|Medium|
-|[Text Justification](https://oj.leetcode.com/problems/text-justification/)| | |2012/4/3|Hard|
-|[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Python](./src/PlusOne/plus_one.py)|2014/12/15|2012/4/2|Easy|
-|[Valid Number](https://oj.leetcode.com/problems/valid-number/)| | |2012/4/2|Easy|
-|[Add Binary](https://oj.leetcode.com/problems/add-binary/)|[Python](./src/AddBinary/add_binary.py)|2015/01/22|2012/4/2|Easy|
-|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./src/MergeTwoSortedLists/merge_two_sorted_lists.py)|2015/01/06|2012/3/30|Easy|
-|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| | |2012/3/28|Medium|
-|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| | |2012/3/28|Medium|
-|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| | |2012/3/28|Medium|
-|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| | |2012/3/27|Medium|
-|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| | |2012/3/27|Medium|
-|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| | |2012/3/27|Medium|
-|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[Python](./src/LengthOfLastWord/length_of_last_word.py)|2015/01/22|2012/3/27|Easy|
-|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| | |2012/3/27|Hard|
-|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| | |2012/3/26|Hard|
-|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| | |2012/3/24|Medium|
-|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| | |2012/3/24|Medium|
-|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| | |2012/3/21|Medium|
-|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| | |2012/3/20|Hard|
-|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| | |2012/3/19|Hard|
-|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| | |2012/3/19|Medium|
-|[Anagrams](https://oj.leetcode.com/problems/anagrams/)| | |2012/3/19|Medium|
-|[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| | |2012/3/17|Medium|
-|[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| | |2012/3/16|Hard|
-|[Permutations](https://oj.leetcode.com/problems/permutations/)| | |2012/3/16|Medium|
-|[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)| | |2012/3/16|Hard|
-|[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)| | |2012/3/15|Hard|
-|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| | |2012/3/12|Medium|
-|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)| | |2012/3/10|Hard|
-|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| | |2012/3/8|Hard|
-|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| | |2012/3/6|Medium|
-|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| | |2012/3/6|Medium|
-|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[Python](./src/CountAndSay/count_and_say.py)|2014/10/27|2012/3/5|Easy|
-|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| | |2012/3/4|Hard|
-|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)|[Python](./src/ValidSudoku/valid_sudoku.py)|2015/01/22|2012/3/3|Easy|
-|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| | |2012/3/3|Medium|
-|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| | |2012/3/2|Medium|
-|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| | |2012/3/2|Hard|
-|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| | |2012/2/29|Hard|
-|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| | |2012/2/25|Medium|
-|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| | |2012/2/23|Hard|
-|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| | |2012/2/18|Medium|
-|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[Python](./src/ImplementStrstr/implement_strstr.py)|2015/01/22|2012/2/18|Easy|
-|[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Python](./src/RemoveElement/remove_element.py)|2015/01/22|2012/2/16|Easy|
-|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./src/RemoveDuplicatesFromSortedArray/remove_duplicates_from_sorted_array.py)|2015/01/22|2012/2/16|Easy|
-|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| | |2012/2/15|Hard|
-|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| | |2012/2/14|Medium|
-|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| | |2012/2/13|Hard|
-|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| | |2012/2/12|Medium|
-|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[Python](./src/ValidParentheses/valid_parentheses.py)|2015/01/06|2012/1/30|Easy|
-|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./src/RemoveNthFromEndOfList/remove_nth_from_end_of_list.py)|2015/01/06|2012/1/27|Easy|
-|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| | |2012/1/26|Medium|
-|[4Sum](https://oj.leetcode.com/problems/4sum/)| | |2012/1/26|Medium|
-|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| | |2012/1/18|Medium|
-|[3Sum](https://oj.leetcode.com/problems/3sum/)| | |2012/1/17|Medium|
-|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)|[Python](./src/LongestCommonPrefix/longest_common_prefix.py)|2014/11/10|2012/1/17|Easy|
-|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[Python](./src/RomanToInteger/roman_to_integer.py)|2014/11/6|2012/1/15|Easy|
-|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)|[Python](./src/IntegerToRoman/integer_to_roman.py)|2014/11/7|2012/1/15|Medium|
-|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| | |2012/1/8|Medium|
-|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| | |2012/1/8|Hard|
-|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Python](./src/PalindromeNumber/palindrome_number.py)| 2014/11/4|2012/1/4|Easy|
-|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Python](./src/StringToInteger/string_to_integer.py)|2014/11/3 |2011/12/26|Easy|
-|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./src/ReverseInteger/reverse_integer.py)|2014/11/01|2011/12/25|Easy|
-|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|[Python](./src/ZigZagConversion/zigzag_conversion.py)|2015/01/06|2011/12/5|Easy|
-|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| | |2011/11/11|Medium|
-|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| | |2011/11/1|Medium|
-|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| | |2011/5/15|Medium|
-|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| | |2011/3/27|Hard|
-|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| | |2011/3/13|Medium|
+|  #  | Title | Solution | Solve Date  | Difficulty |
+| --- | ----- | -------- | ----------  | ---------- |
+| 179 |[Largest Number](https://oj.leetcode.com/problems/largest-number/)|||Medium|
+| 174 |[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/)|||Hard|
+| 173 |[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/)|||Medium|
+| 172 |[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/)|||Easy|
+| 171 |[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|||Easy|
+| 170 |[Two Sum III - Data structure design ](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/)|||Easy|
+| 169 |[Majority Element](https://oj.leetcode.com/problems/majority-element/)|||Easy|
+| 168 |[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/)|||Easy|
+| 167 |[Two Sum II - Input array is sorted ](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||Medium|
+| 166 |[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/)|||Medium|
+| 165 |[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/)|||Easy|
+| 164 |[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/)|||Hard|
+| 163 |[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/)|||Medium|
+| 162 |[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/)|||Medium|
+| 161 |[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)|||Medium|
+| 160 |[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./src/IntersectionOfTwoLinkedLists/intersection_of_two_linked_lists.py)|2015/01/23|Easy|
+| 159 |[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|||Hard|
+| 158 |[Read N Characters Given Read4 II - Call multiple times](https://oj.leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)|||Hard|
+| 157 |[Read N Characters Given Read4](https://oj.leetcode.com/problems/read-n-characters-given-read4/)|||Easy|
+| 156 |[Binary Tree Upside Down](https://oj.leetcode.com/problems/binary-tree-upside-down/)|||Medium|
+| 155 |[Min Stack](https://oj.leetcode.com/problems/min-stack/)|[Python](./src/MinStack/min_stack.py)|2014/11/10|Easy|
+| 154 |[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|||Hard|
+| 153 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|||Medium|
+| 152 |[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)|||Medium|
+| 151 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)|||Medium|
+| 150 |[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)|||Medium|
+| 149 |[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)|||Hard|
+| 148 |[Sort List](https://oj.leetcode.com/problems/sort-list/)|||Medium|
+| 147 |[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)|||Medium|
+| 146 |[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)|||Hard|
+| 145 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)|||Hard|
+| 144 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)|||Medium|
+| 143 |[Reorder List](https://oj.leetcode.com/problems/reorder-list/)|||Medium|
+| 142 |[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)|||Medium|
+| 141 |[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)|||Medium|
+| 140 |[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)|||Hard|
+| 139 |[Word Break](https://oj.leetcode.com/problems/word-break/)|||Medium|
+| 138 |[Copy List with Random Pointer](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)|||Hard|
+| 137 |[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)|||Medium|
+| 136 |[Single Number](https://oj.leetcode.com/problems/single-number/)|||Medium|
+| 135 |[Candy](https://oj.leetcode.com/problems/candy/)|||Hard|
+| 134 |[Gas Station](https://oj.leetcode.com/problems/gas-station/)|||Medium|
+| 133 |[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)|||Medium|
+| 132 |[Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)|||Hard|
+| 131 |[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)|||Medium|
+| 130 |[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)|||Medium|
+| 129 |[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)|||Medium|
+| 128 |[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)|||Hard|
+| 127 |[Word Ladder](https://oj.leetcode.com/problems/word-ladder/)|||Medium|
+| 126 |[Word Ladder II](https://oj.leetcode.com/problems/word-ladder-ii/)|||Hard|
+| 125 |[Valid Palindrome](https://oj.leetcode.com/problems/valid-palindrome/)|[Python](./src/ValidPalindrome/valid_palindrome.py)|2013/11/5|Easy|
+| 124 |[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)|||Hard|
+| 123 |[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|||Hard|
+| 122 |[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|||Medium|
+| 121 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||Medium|
+| 120 |[Triangle](https://oj.leetcode.com/problems/triangle/)|||Medium|
+| 119 |[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)|[Python](./src/PascalTriangleII/pascal_triangle_II.py)|2014/11/10|Easy|
+| 118 |[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)|[Python](./src/PascalTriangleI/pascal_triangle_I.py)|2014/11/10|Easy|
+| 117 |[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|||Hard|
+| 116 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)|||Medium|
+| 115 |[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)|||Hard|
+| 114 |[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)|||Medium|
+| 113 |[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)|[Python](./src/PathSumII/path_sum_II.py)|2014/11/16|Medium|
+| 112 |[Path Sum](https://oj.leetcode.com/problems/path-sum/)|[Python](./src/PathSum/path_sum.py)|2014/11/16|Easy|
+| 111 |[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./src/MinDepOfBinaryTree/min_dep_of_binary_tree.py)|2014/11/16|Easy|
+| 110 |[Balanced Binary Tree](https://oj.leetcode.com/problems/balanced-binary-tree/)|||Easy|
+| 109 ||[Convert Sorted List to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)|||Medium|
+| 108 |[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|||Medium|
+| 107 |[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](./src/BinaryTreeLevelOrderTraversalII/binary_tree_level_order_traversal_ii.py)|2015/01/23|Easy|
+| 106 |[Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|||Medium|
+| 105 |[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|||Medium|
+| 104 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](./src/MaxDepOfBinaryTree/max_dep_of_binary_tree.py)|2014/11/16|Easy|
+| 103 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|||Medium|
+| 102 |[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](src/BinaryTreeLevelOrderTraversal/binary_tree_level_order_traversal.py)|2015/01/23|Easy|
+| 101 |[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)|[Python](./src/SymmetricTree/symmetric_tree.py)|2014/10/27|Easy|
+| 100 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)|[Python](./src/SameTree/same_tree.py)|2015/01/23|Easy|
+|  99 |[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)|||Hard|
+|  98 |[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)|||Medium|
+|  97 |[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)|||Hard|
+|  96 |[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)|||Medium|
+|  95 |[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)|||Medium|
+|  94 |[Binary Tree Inorder Traversal](https://oj.leetcode.com/problems/binary-tree-inorder-traversal/)|||Medium|
+|  93 |[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)|||Medium|
+|  92 |[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)|||Medium|
+|  91 |[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)|||Medium|
+|  90 |[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)|||Medium|
+|  89 |[Gray Code](https://oj.leetcode.com/problems/gray-code/)|||Medium|
+|  88 |[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)|[Python](./src/MergeSortedArray/merge_sorted_array.py)|2015/01/23|Easy|
+|  87 |[Scramble String](https://oj.leetcode.com/problems/scramble-string/)|||Hard|
+|  86 |[Partition List](https://oj.leetcode.com/problems/partition-list/)|||Medium|
+|  85 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)|||Hard|
+|  84 |[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)|||Hard|
+|  83 |[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](./src/RemoveDuplicatesFromSortedListII/remove_duplicates_from_sorted_list_ii.py)|2015/01/23|Medium|
+|  82 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](./src/RemoveDuplicatesFromSortedList/remove_duplicates_from_sorted_list.py)|2015/01/23|Easy|
+|  81 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)|||Medium|
+|  80 |[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|||Medium|
+|  79 |[Word Search](https://oj.leetcode.com/problems/word-search/)|||Medium|
+|  78 |[Subsets](https://oj.leetcode.com/problems/subsets/)|||Medium|
+|  77 |[Combinations](https://oj.leetcode.com/problems/combinations/)|||Medium|
+|  76 |[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)|||Hard|
+|  75 |[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)|||Medium|
+|  74 |[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)|||Medium|
+|  73 |[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)|||Medium|
+|  72 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)|||Hard|
+|  71 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)|||Medium|
+|  70 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Python](./src/ClimbingStairs/climbling_stairs.py)|2015/01/23|Easy|
+|  69 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)|||Medium|
+|  68 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)|||Hard|
+|  67 |[Add Binary](https://oj.leetcode.com/problems/add-binary/)|[Python](./src/AddBinary/add_binary.py)|2015/01/22|Easy|
+|  66 |[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Python](./src/PlusOne/plus_one.py)|2014/12/15|Easy|
+|  65 |[Valid Number](https://oj.leetcode.com/problems/valid-number/)|||Easy|
+|  64 |[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)|||Medium|
+|  63 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)|||Medium|
+|  62 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)|||Medium|
+|  61 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)|||Medium|
+|  60 |[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)|||Medium|
+|  59 |[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)|||Medium|
+|  58 |[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[Python](./src/LengthOfLastWord/length_of_last_word.py)|2015/01/22|Easy|
+|  57 |[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)|||Hard|
+|  56 |[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)|||Hard|
+|  55 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)|||Medium|
+|  54 |[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)|||Medium|
+|  53 |[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)|||Medium|
+|  52 |[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)|||Hard|
+|  51 |[N-Queens](https://oj.leetcode.com/problems/n-queens/)|||Hard|
+|  50 |["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)|||Medium|
+|  49 |[Anagrams](https://oj.leetcode.com/problems/anagrams/)|||Medium|
+|  48 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)|||Medium|
+|  47 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)|||Hard|
+|  46 |[Permutations](https://oj.leetcode.com/problems/permutations/)|||Medium|
+|  45 |[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)|||Hard|
+|  44 |[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)|||Hard|
+|  43 |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)|||Medium|
+|  42 |[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)|||Hard|
+|  41 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)|||Hard|
+|  40 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|||Medium|
+|  39 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)|||Medium|
+|  38  |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[Python](./src/CountAndSay/count_and_say.py)|2014/10/27|Easy|
+|  37 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)|||Hard|
+|  36 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)|[Python](./src/ValidSudoku/valid_sudoku.py)|2015/01/22|Easy|
+|  35 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|||Medium|
+|  34 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)|||Medium|
+|  33 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)|||Hard|
+|  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|||Hard|
+|  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|||Medium|
+|  30 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|||Hard|
+|  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|||Medium|
+|  28 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[Python](./src/ImplementStrstr/implement_strstr.py)|2015/01/22|Easy|
+|  27 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Python](./src/RemoveElement/remove_element.py)|2015/01/22|Easy|
+|  26 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./src/RemoveDuplicatesFromSortedArray/remove_duplicates_from_sorted_array.py)|2015/01/22|Easy|
+|  25 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)|||Hard|
+|  24 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)|||Medium|
+|  23 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)|||Hard|
+|  22 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)|||Medium|
+|  21 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./src/MergeTwoSortedLists/merge_two_sorted_lists.py)|2015/01/06|Easy|
+|  20 |[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[Python](./src/ValidParentheses/valid_parentheses.py)|2015/01/06|Easy|
+|  19 |[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./src/RemoveNthFromEndOfList/remove_nth_from_end_of_list.py)|2015/01/06|Easy|
+|  18 |[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| | |Medium|
+|  17 |[4Sum](https://oj.leetcode.com/problems/4sum/)| | |Medium|
+|  16 |[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| | |Medium|
+|  15 |[3Sum](https://oj.leetcode.com/problems/3sum/)| | |Medium|
+|  14 |[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)|[Python](./src/LongestCommonPrefix/longest_common_prefix.py)|2014/11/10|Easy|
+|  13 |[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[Python](./src/RomanToInteger/roman_to_integer.py)|2014/11/6|Easy|
+|  12 |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)|[Python](./src/IntegerToRoman/integer_to_roman.py)|2014/11/7|Medium|
+|  11 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| | |Medium|
+|  10 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| | |Hard|
+|  9  |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Python](./src/PalindromeNumber/palindrome_number.py)|2014/11/4|Easy|
+|  8  |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Python](./src/StringToInteger/string_to_integer.py)|2014/11/3|Easy|
+|  7  |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./src/ReverseInteger/reverse_integer.py)|2014/11/01|Easy|
+|  6  |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|[Python](./src/ZigZagConversion/zigzag_conversion.py)|2015/01/06|Easy|
+|  5  |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| | |Medium|
+|  4  |[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| | |Hard|
+|  3  |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| | |Medium|
+|  2  |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| | |Medium|
+|  1  |[Two Sum](https://oj.leetcode.com/problems/two-sum/)| | |Medium|
