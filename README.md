@@ -77,7 +77,7 @@ LeetCode Python Solutions by Yagao0o
 |[Partition List](https://oj.leetcode.com/problems/partition-list/)| | |2012/4/30|Medium|
 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)| | |2012/4/23|Hard|
 |[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)| | |2012/4/22|Hard|
-|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| | |2012/4/22|Medium|
+|[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](./src/RemoveDuplicatesFromSortedListII/remove_duplicates_from_sorted_list_ii.py)|2015/01/23|2012/4/22|Medium|
 |[Remove Duplicates from Sorted List](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python](./src/RemoveDuplicatesFromSortedList/remove_duplicates_from_sorted_list.py)|2015/01/23|2012/4/22|Easy|
 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)| | |2012/4/19|Medium|
 |[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| | |2012/4/19|Medium|
