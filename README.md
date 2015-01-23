@@ -90,7 +90,7 @@ LeetCode Python Solutions by Yagao0o
 |[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| | |2012/4/5|Medium|
 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| | |2012/4/4|Hard|
 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| | |2012/4/3|Medium|
-|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| | |2012/4/3|Easy|
+|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Python](./src/ClimbingStairs/climbling_stairs.py)|2015/01/23|2012/4/3|Easy|
 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| | |2012/4/3|Medium|
 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)| | |2012/4/3|Hard|
 |[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Python](./src/PlusOne/plus_one.py)|2014/12/15|2012/4/2|Easy|
