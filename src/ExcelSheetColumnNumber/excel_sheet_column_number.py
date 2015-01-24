@@ -1,6 +1,6 @@
 # Author  :  Yagao0o
 # Date    :  2015-01-24
-# Source  :  https://oj.leetcode.com/problems/excel-sheet-column-title/
+# Source  :  https://oj.leetcode.com/problems/excel-sheet-column-number/
 
 # Related to question Excel Sheet Column Title
 #
