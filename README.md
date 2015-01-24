@@ -9,10 +9,10 @@ LeetCode Python Solutions by Yagao0o
 | 174 |[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/)|||Hard|
 | 173 |[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/)|||Medium|
 | 172 |[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/)|||Easy|
-| 171 |[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|||Easy|
+| 171 |[Excel Sheet Column Number](https://oj.leetcode.com/problems/excel-sheet-column-number/)|[Python](./src/ExcelSheetColumnNumber/excel_sheet_column_number.py)|2015/01/24|Easy|
 | 170 |[Two Sum III - Data structure design ](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/)|||Easy|
 | 169 |[Majority Element](https://oj.leetcode.com/problems/majority-element/)|||Easy|
-| 168 |[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/)|||Easy|
+| 168 |[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/)|[Python](./src/ExcelSheetColumnTitle/excel_sheet_column_title.py)|2015/01/04|Easy|
 | 167 |[Two Sum II - Input array is sorted ](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||Medium|
 | 166 |[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/)|||Medium|
 | 165 |[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/)|[Python](src/CompareVersionNumbers/compare_version_numbers.py)|2015/01/24|Easy|
