@@ -177,6 +177,6 @@ LeetCode Python Solutions by Yagao0o
 |  6  |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|[Python](./src/ZigZagConversion/zigzag_conversion.py)|2015/01/06|Easy|
 |  5  |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| | |Medium|
 |  4  |[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| | |Hard|
-|  3  |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| | |Medium|
+|  3  |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| |2015/01/26|Medium|
 |  2  |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)|[Python](./src/AddTwoNumbers/add_two_numbers.py)|2015/01/26|Medium|
 |  1  |[Two Sum](https://oj.leetcode.com/problems/two-sum/)| | |Medium|
