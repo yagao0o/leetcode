@@ -175,8 +175,8 @@ LeetCode Python Solutions by Yagao0o
 |  8  |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Python](./src/StringToInteger/string_to_integer.py)|2014/11/3|Easy|
 |  7  |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./src/ReverseInteger/reverse_integer.py)|2014/11/01|Easy|
 |  6  |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|[Python](./src/ZigZagConversion/zigzag_conversion.py)|2015/01/06|Easy|
-|  5  |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| | |Medium|
+|  5  |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)|[Python](./src/LongestPalindromicSubstring/longest_palindromic_substring.py)|2015/01/27|Medium|
 |  4  |[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| | |Hard|
-|  3  |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| |2015/01/26|Medium|
+|  3  |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./src/LongestSubstringWithoutRepeatingCharacters/longest_substring_without_repeating_characters.py)|2015/01/26|Medium|
 |  2  |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)|[Python](./src/AddTwoNumbers/add_two_numbers.py)|2015/01/26|Medium|
 |  1  |[Two Sum](https://oj.leetcode.com/problems/two-sum/)| | |Medium|
