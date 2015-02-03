@@ -162,7 +162,7 @@ LeetCode Python Solutions by Yagao0o
 |  21 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./src/MergeTwoSortedLists/merge_two_sorted_lists.py)|2015/01/06|Easy|
 |  20 |[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[Python](./src/ValidParentheses/valid_parentheses.py)|2015/01/06|Easy|
 |  19 |[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./src/RemoveNthFromEndOfList/remove_nth_from_end_of_list.py)|2015/01/06|Easy|
-|  18 |[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| | |Medium|
+|  18 |[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](./src/LetterCombinationsOfAPhoneNumber/letter_combinations_of_a_phone_number.py)|2015/02/03|Medium|
 |  17 |[4Sum](https://oj.leetcode.com/problems/4sum/)| | |Medium|
 |  16 |[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)|[Python](./src/3SumClosest/3_sum_closest.py)|2015/02/02|Medium|
 |  15 |[3Sum](https://oj.leetcode.com/problems/3sum/)|[Python](./src/3Sum/3_sum.py)|2015/01/29|Medium|
