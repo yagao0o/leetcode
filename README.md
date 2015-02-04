@@ -142,7 +142,7 @@ LeetCode Python Solutions by Yagao0o
 |  41 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)|||Hard|
 |  40 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|||Medium|
 |  39 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)|||Medium|
-|  38  |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[Python](./src/CountAndSay/count_and_say.py)|2014/10/27|Easy|
+|  38 |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[Python](./src/CountAndSay/count_and_say.py)|2014/10/27|Easy|
 |  37 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)|||Hard|
 |  36 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)|[Python](./src/ValidSudoku/valid_sudoku.py)|2015/01/22|Easy|
 |  35 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|||Medium|
@@ -151,7 +151,7 @@ LeetCode Python Solutions by Yagao0o
 |  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|||Hard|
 |  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|||Medium|
 |  30 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|||Hard|
-|  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|||Medium|
+|  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|[Python](./src/DivideTwoIntegers/divide_two_integers.py)|2015/02/04|Medium|
 |  28 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[Python](./src/ImplementStrstr/implement_strstr.py)|2015/01/22|Easy|
 |  27 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Python](./src/RemoveElement/remove_element.py)|2015/01/22|Easy|
 |  26 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./src/RemoveDuplicatesFromSortedArray/remove_duplicates_from_sorted_array.py)|2015/01/22|Easy|
