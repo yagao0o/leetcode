@@ -158,7 +158,7 @@ LeetCode Python Solutions by Yagao0o
 |  25 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)|||Hard|
 |  24 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)|||Medium|
 |  23 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)|||Hard|
-|  22 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)|||Medium|
+|  22 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)|[Python](./src/GenerateParentheses/genrate_parentheses.py)|2015/02/04|Medium|
 |  21 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./src/MergeTwoSortedLists/merge_two_sorted_lists.py)|2015/01/06|Easy|
 |  20 |[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[Python](./src/ValidParentheses/valid_parentheses.py)|2015/01/06|Easy|
 |  19 |[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./src/RemoveNthFromEndOfList/remove_nth_from_end_of_list.py)|2015/01/06|Easy|
