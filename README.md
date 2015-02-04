@@ -156,7 +156,7 @@ LeetCode Python Solutions by Yagao0o
 |  27 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Python](./src/RemoveElement/remove_element.py)|2015/01/22|Easy|
 |  26 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./src/RemoveDuplicatesFromSortedArray/remove_duplicates_from_sorted_array.py)|2015/01/22|Easy|
 |  25 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)|||Hard|
-|  24 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)|||Medium|
+|  24 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)|[Python](./src/SwapNodesInPairs/swap_nodes_in_pairs.py)|2015/02/04|Medium|
 |  23 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)|||Hard|
 |  22 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)|[Python](./src/GenerateParentheses/genrate_parentheses.py)|2015/02/04|Medium|
 |  21 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./src/MergeTwoSortedLists/merge_two_sorted_lists.py)|2015/01/06|Easy|
