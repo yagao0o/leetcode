@@ -146,7 +146,7 @@ LeetCode Python Solutions by Yagao0o
 |  37 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)|||Hard|
 |  36 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)|[Python](./src/ValidSudoku/valid_sudoku.py)|2015/01/22|Easy|
 |  35 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|||Medium|
-|  34 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)|||Medium|
+|  34 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)|[Python](./src/SearchForARange/search_for_a_range.py)|2015/02/05|Medium|
 |  33 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)|||Hard|
 |  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|||Hard|
 |  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|[Python](./src/NextPermutation/next_permutation.py)|2014/02/05|Medium|
