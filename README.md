@@ -149,7 +149,7 @@ LeetCode Python Solutions by Yagao0o
 |  34 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)|||Medium|
 |  33 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)|||Hard|
 |  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|||Hard|
-|  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|||Medium|
+|  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|[Python](./src/NextPermutation/next_permutation.py)|2014/02/05|Medium|
 |  30 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|||Hard|
 |  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|[Python](./src/DivideTwoIntegers/divide_two_integers.py)|2015/02/04|Medium|
 |  28 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[Python](./src/ImplementStrstr/implement_strstr.py)|2015/01/22|Easy|
