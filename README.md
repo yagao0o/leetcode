@@ -140,7 +140,7 @@ LeetCode Python Solutions by Yagao0o
 |  43 |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)|||Medium|
 |  42 |[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)|||Hard|
 |  41 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)|||Hard|
-|  40 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|||Medium|
+|  40 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|[Python](./src/CombinationSumII/combination_sum_ii.py)|2015/02/06|Medium|
 |  39 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)|[Python](./src/CombinationSum/combination_sum.py)|2015/02/06|Medium|
 |  38 |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[Python](./src/CountAndSay/count_and_say.py)|2014/10/27|Easy|
 |  37 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)|||Hard|
