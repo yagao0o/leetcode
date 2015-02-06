@@ -141,11 +141,11 @@ LeetCode Python Solutions by Yagao0o
 |  42 |[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)|||Hard|
 |  41 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)|||Hard|
 |  40 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|||Medium|
-|  39 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)|||Medium|
+|  39 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)|[Python](./src/CombinationSum/combination_sum.py)|2015/02/06|Medium|
 |  38 |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[Python](./src/CountAndSay/count_and_say.py)|2014/10/27|Easy|
 |  37 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)|||Hard|
 |  36 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)|[Python](./src/ValidSudoku/valid_sudoku.py)|2015/01/22|Easy|
-|  35 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|[Python](./src/SearchInsertPosition/search_insert_position.py)|2015/02/|Medium|
+|  35 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|[Python](./src/SearchInsertPosition/search_insert_position.py)|2015/02/06|Medium|
 |  34 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)|[Python](./src/SearchForARange/search_for_a_range.py)|2015/02/05|Medium|
 |  33 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)|||Hard|
 |  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|||Hard|
