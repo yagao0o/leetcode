@@ -134,7 +134,7 @@ LeetCode Python Solutions by Yagao0o
 |  49 |[Anagrams](https://oj.leetcode.com/problems/anagrams/)|||Medium|
 |  48 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)|||Medium|
 |  47 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)|||Hard|
-|  46 |[Permutations](https://oj.leetcode.com/problems/permutations/)|||Medium|
+|  46 |[Permutations](https://oj.leetcode.com/problems/permutations/)|[Python](./src/Permutations/permutations.py)|2015/02/10|Medium|
 |  45 |[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)|||Hard|
 |  44 |[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)|||Hard|
 |  43 |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)|[Python](./src/MultiplyStrings/multiply_strings.py)|2015/02/10|Medium|
