@@ -132,7 +132,7 @@ LeetCode Python Solutions by Yagao0o
 |  51 |[N-Queens](https://oj.leetcode.com/problems/n-queens/)|||Hard|
 |  50 |["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)|||Medium|
 |  49 |[Anagrams](https://oj.leetcode.com/problems/anagrams/)|||Medium|
-|  48 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)|||Medium|
+|  48 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)|[Python](./src/RotateImage/rotate_image.py)|2015/02/10|Medium|
 |  47 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)|||Hard|
 |  46 |[Permutations](https://oj.leetcode.com/problems/permutations/)|[Python](./src/Permutations/permutations.py)|2015/02/10|Medium|
 |  45 |[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)|||Hard|
