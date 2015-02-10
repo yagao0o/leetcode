@@ -137,7 +137,7 @@ LeetCode Python Solutions by Yagao0o
 |  46 |[Permutations](https://oj.leetcode.com/problems/permutations/)|||Medium|
 |  45 |[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)|||Hard|
 |  44 |[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)|||Hard|
-|  43 |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)|||Medium|
+|  43 |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)|[Python](./src/MultiplyStrings/multiply_strings.py)|2015/02/10|Medium|
 |  42 |[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)|||Hard|
 |  41 |[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)|||Hard|
 |  40 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|[Python](./src/CombinationSumII/combination_sum_ii.py)|2015/02/06|Medium|
