@@ -130,7 +130,7 @@ LeetCode Python Solutions by Yagao0o
 |  53 |[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)|||Medium|
 |  52 |[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)|||Hard|
 |  51 |[N-Queens](https://oj.leetcode.com/problems/n-queens/)|||Hard|
-|  50 |["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)|||Medium|
+|  50 |["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)|[Python](./src/PowXN/pow_x_n.py)|2015/02/11|Medium|
 |  49 |[Anagrams](https://oj.leetcode.com/problems/anagrams/)|||Medium|
 |  48 |[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)|[Python](./src/RotateImage/rotate_image.py)|2015/02/10|Medium|
 |  47 |[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)|||Hard|
