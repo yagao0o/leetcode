@@ -33,7 +33,6 @@ class Solution:
         edge_remain = edge_n
         while len(result) < total_numbers:
             x, y = self.move_to_next(x, y, direction)
-            print x,y,'|',matrix[x][y],'|',direction,'|',edge_m, edge_n,edge_remain
             result.append(matrix[x][y])
             edge_remain -= 1
             if edge_remain == 0:
@@ -55,5 +54,3 @@ class Solution:
         elif direction == 2:
             return x, y - 1
         return x - 1, y
-
-#TODO it could optimize about 30% running time.
