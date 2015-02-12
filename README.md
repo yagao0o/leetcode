@@ -120,7 +120,7 @@ LeetCode Python Solutions by Yagao0o
 |  63 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)|||Medium|
 |  62 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)|||Medium|
 |  61 |[Rotate List](https://oj.leetcode.com/problems/rotate-list/)|||Medium|
-|  60 |[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)|||Medium|
+|  60 |[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)|[Python](./src/PermutationSequence/permutation_sequence.py)|2015/02/12|Medium|
 |  59 |[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)|[Python](./src/SpiralMatrixII/spiral_matrix_ii.py)|2015/02/12|Medium|
 |  58 |[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[Python](./src/LengthOfLastWord/length_of_last_word.py)|2015/01/22|Easy|
 |  57 |[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)|||Hard|
