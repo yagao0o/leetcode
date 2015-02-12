@@ -125,7 +125,7 @@ LeetCode Python Solutions by Yagao0o
 |  58 |[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)|[Python](./src/LengthOfLastWord/length_of_last_word.py)|2015/01/22|Easy|
 |  57 |[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)|||Hard|
 |  56 |[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)|||Hard|
-|  55 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)|||Medium|
+|  55 |[Jump Game](https://oj.leetcode.com/problems/jump-game/)|[Python](./src/JumpGame/jump_game.py)|2015/02/12|Medium|
 |  54 |[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)|[Python](./src/SpiralMatrix/spiral_matrix.py)|2015/02/12|Medium|
 |  53 |[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)|[Python](./src/MaximumSubarray/maximum_subarray.py)|2015/02/11|Medium|
 |  52 |[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)|||Hard|
