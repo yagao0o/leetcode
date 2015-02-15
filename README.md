@@ -107,7 +107,7 @@ LeetCode Python Solutions by Yagao0o
 |  76 |[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)|||Hard|
 |  75 |[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)|||Medium|
 |  74 |[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)|||Medium|
-|  73 |[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)|||Medium|
+|  73 |[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)|[Python](./src/SetMatrixZeroes/set_matrix_zeroes.py)|2015/02/15|Medium|
 |  72 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)|||Hard|
 |  71 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)|[Python](./src/SimplifyPath/simplify_path.py)|2015/02/15|Medium|
 |  70 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Python](./src/ClimbingStairs/climbling_stairs.py)|2015/01/23|Easy|
