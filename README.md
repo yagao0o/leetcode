@@ -109,7 +109,7 @@ LeetCode Python Solutions by Yagao0o
 |  74 |[Search a 2D Matrix](https://oj.leetcode.com/problems/search-a-2d-matrix/)|||Medium|
 |  73 |[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)|||Medium|
 |  72 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)|||Hard|
-|  71 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)|||Medium|
+|  71 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)|[Python](./src/SimplifyPath/simplify_path.py)|2015/02/15|Medium|
 |  70 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Python](./src/ClimbingStairs/climbling_stairs.py)|2015/01/23|Easy|
 |  69 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)|[Python](./src/SqrtX/sqrt_x.py)|2015/02/15|Medium|
 |  68 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)|||Hard|
