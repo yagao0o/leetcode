@@ -102,7 +102,7 @@ LeetCode Python Solutions by Yagao0o
 |  81 |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/)|||Medium|
 |  80 |[Remove Duplicates from Sorted Array II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|||Medium|
 |  79 |[Word Search](https://oj.leetcode.com/problems/word-search/)|||Medium|
-|  78 |[Subsets](https://oj.leetcode.com/problems/subsets/)|||Medium|
+|  78 |[Subsets](https://oj.leetcode.com/problems/subsets/)|[Python](./src/Subsets/subsets.py)|2015/02/15|Medium|
 |  77 |[Combinations](https://oj.leetcode.com/problems/combinations/)|[Python](./src/Combinations/combinations.py)|2015/02/15|Medium|
 |  76 |[Minimum Window Substring](https://oj.leetcode.com/problems/minimum-window-substring/)|||Hard|
 |  75 |[Sort Colors](https://oj.leetcode.com/problems/sort-colors/)|[Python](./src/SortColors/sort_colors.py)|2015/02/15|Medium|
