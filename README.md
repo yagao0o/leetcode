@@ -111,11 +111,11 @@ LeetCode Python Solutions by Yagao0o
 |  72 |[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)|||Hard|
 |  71 |[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)|||Medium|
 |  70 |[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)|[Python](./src/ClimbingStairs/climbling_stairs.py)|2015/01/23|Easy|
-|  69 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)|||Medium|
+|  69 |[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)|[Python](./src/SqrtX/sqrt_x.py)|2015/02/15|Medium|
 |  68 |[Text Justification](https://oj.leetcode.com/problems/text-justification/)|||Hard|
 |  67 |[Add Binary](https://oj.leetcode.com/problems/add-binary/)|[Python](./src/AddBinary/add_binary.py)|2015/01/22|Easy|
 |  66 |[Plus One](https://oj.leetcode.com/problems/plus-one/)|[Python](./src/PlusOne/plus_one.py)|2014/12/15|Easy|
-|  65 |[Valid Number](https://oj.leetcode.com/problems/valid-number/)|||Easy|
+|  65 |[Valid Number](https://oj.leetcode.com/problems/valid-number/)|||Hard|
 |  64 |[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)|[Python](./src/MinimumPathSum/minimum_path_sum.py)|2015/02/14|Medium|
 |  63 |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)|[Python](./src/UniquePathsII/unique_paths_ii.py)|2015/02/14|Medium|
 |  62 |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)|[Python](./src/UniquePaths/unique_paths.py)|2015/02/14|Medium|
