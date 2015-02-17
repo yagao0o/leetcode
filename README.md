@@ -94,7 +94,7 @@ LeetCode Python Solutions by Yagao0o
 |  89 |[Gray Code](https://oj.leetcode.com/problems/gray-code/)|||Medium|
 |  88 |[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)|[Python](./src/MergeSortedArray/merge_sorted_array.py)|2015/01/23|Easy|
 |  87 |[Scramble String](https://oj.leetcode.com/problems/scramble-string/)|||Hard|
-|  86 |[Partition List](https://oj.leetcode.com/problems/partition-list/)|||Medium|
+|  86 |[Partition List](https://oj.leetcode.com/problems/partition-list/)|[Python](./src/PartitionList/partition_list.py)|2015/02/17|Medium|
 |  85 |[Maximal Rectangle](https://oj.leetcode.com/problems/maximal-rectangle/)|||Hard|
 |  84 |[Largest Rectangle in Histogram](https://oj.leetcode.com/problems/largest-rectangle-in-histogram/)|||Hard|
 |  83 |[Remove Duplicates from Sorted List II](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Python](./src/RemoveDuplicatesFromSortedListII/remove_duplicates_from_sorted_list_ii.py)|2015/01/23|Medium|
