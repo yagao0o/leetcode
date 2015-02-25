@@ -38,12 +38,3 @@ class Solution:
         if node.right:
             result += self.inorder_traversal(node.right)
         return result
-
-
-a = Solution()
-n1 = TreeNode(1)
-n2 = TreeNode(2)
-n3 = TreeNode(3)
-# n1.right = n2
-# n2.left = n3
-print a.inorderTraversal(None)

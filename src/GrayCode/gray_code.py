@@ -24,7 +24,7 @@ class Solution:
     # @return a list of integers
     def grayCode(self, n):
         if n == 0:
-            return
+            return [0]
         result = [0, 1]
         current = 1
         current_size = 2
@@ -34,9 +34,3 @@ class Solution:
                 result.append(result[current_size - 1 - i] + current_size)
             current_size <<= 1
         return result
-
-a = Solution()
-for i in range(5):
-    print i
-    print a.grayCode(i)
-    print '----------'

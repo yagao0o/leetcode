@@ -9,6 +9,8 @@
 #
 # return ["255.255.11.135", "255.255.111.35"]. (Order does not matter)
 
+#yagao note:not a good idea, but maybe efficient LOL
+
 class Solution:
     # @param s, a string
     # @return a list of strings
@@ -24,10 +26,15 @@ class Solution:
                     part_two_int = s[part_one: part_one + part_two]
                     part_three_int = s[part_one + part_two: part_one + part_two + part_three]
                     part_four_int = s[part_one + part_two + part_three:]
-                    if 1 <= int(part_one_int) <= 255 and 1 <= int(part_two_int) <= 255 and \
-                                            1 <= int(part_three_int) <= 255 and 1 <= int(part_four_int) <= 255:
+                    if part_one > 1 and part_one_int[0] == '0':
+                        continue
+                    if part_two > 1 and part_two_int[0] == '0':
+                        continue
+                    if part_three > 1 and part_three_int[0] == '0':
+                        continue
+                    if part_four > 1 and part_four_int[0] == '0':
+                        continue
+                    if 0 <= int(part_one_int) <= 255 and 0 <= int(part_two_int) <= 255 and \
+                                            0 <= int(part_three_int) <= 255 and 0 <= int(part_four_int) <= 255:
                         result.append(part_one_int + '.' + part_two_int + '.' + part_three_int + '.' + part_four_int)
         return result
-
-a = Solution()
-print a.restoreIpAddresses('25525511135')

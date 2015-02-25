@@ -54,7 +54,3 @@ class Solution:
             for current_set in current_group:
                 result.append(current_set + sub_result)
         return result
-
-
-a = Solution()
-print a.subsetsWithDup([1,2,2])

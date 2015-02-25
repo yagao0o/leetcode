@@ -19,25 +19,24 @@ class Solution:
     # @param s, a string
     # @return an integer
     def numDecodings(self, s):
-        before_last = 1
+        if not s:
+            return 0
+        before_last = 0
         last = 1
         const_one_to_six = '123456'
-        for position in range(1, len(s)):
+        current = 0
+        for position in range(0, len(s)):
             if s[position] == '0':
-                current = before_last
-                before_last = 0
-                last = current
+                if position > 0 and s[position - 1] in '12':
+                    current = before_last
+                    before_last = 0
+                    last = current
+                else:
+                    return 0
             else:
                 current = last
-                if s[position - 1] == '1'or (s[position - 1] == '2' and s[current] in const_one_to_six):
+                if position > 0 and s[position - 1] == '1'or (s[position - 1] == '2' and s[position] in const_one_to_six):
                     current += before_last
                 before_last = last
                 last = current
         return current
-
-
-
-a = Solution()
-print a.numDecodings('11111')
-print a.numDecodings('10101')
-print a.numDecodings('1216')
