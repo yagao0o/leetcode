@@ -82,7 +82,7 @@ LeetCode Python Solutions by Yagao0o
 | 101 |[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)|[Python](./src/SymmetricTree/symmetric_tree.py)|2014/10/27|Easy|
 | 100 |[Same Tree](https://oj.leetcode.com/problems/same-tree/)|[Python](./src/SameTree/same_tree.py)|2015/01/23|Easy|
 |  99 |[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)|||Hard|
-|  98 |[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)|||Medium|
+|  98 |[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)|[Python](./src/ValidateBinarySearchTree/validate_binary_search_tree.py)|2015/02/28|Medium|
 |  97 |[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)|||Hard|
 |  96 |[Unique Binary Search Trees II](https://oj.leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](./src/UniqueBinarySearchTreesII/unique_binary_search_trees_ii.py)|2015/02/28|Medium|
 |  95 |[Unique Binary Search Trees](https://oj.leetcode.com/problems/unique-binary-search-trees/)|[Python](./src/UniqueBinarySearchTrees/unique_binary_search_trees.py)|2015/02/26|Medium|
