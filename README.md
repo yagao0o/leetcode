@@ -64,7 +64,7 @@ LeetCode Python Solutions by Yagao0o
 | 119 |[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)|[Python](./src/PascalTriangleII/pascal_triangle_II.py)|2014/11/10|Easy|
 | 118 |[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)|[Python](./src/PascalTriangleI/pascal_triangle_I.py)|2014/11/10|Easy|
 | 117 |[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|||Hard|
-| 116 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)|||Medium|
+| 116 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](./src/PopulatingNextRightPointersInEachNode/populating_next_right_pointers_in_each_node.py)|2015/03/01|Medium|
 | 115 |[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)|||Hard|
 | 114 |[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](./src/FlattenBinaryTreeToLinkedList/flatten_binary_to_linked_list.py)||Medium|
 | 113 |[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)|[Python](./src/PathSumII/path_sum_II.py)|2014/11/16|Medium|
