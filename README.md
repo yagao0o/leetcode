@@ -60,7 +60,7 @@ LeetCode Python Solutions by Yagao0o
 | 123 |[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|||Hard|
 | 122 |[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|||Medium|
 | 121 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||Medium|
-| 120 |[Triangle](https://oj.leetcode.com/problems/triangle/)|||Medium|
+| 120 |[Triangle](https://oj.leetcode.com/problems/triangle/)|[Python](./src/Triangle/triangle.py)|2015/03/01|Medium|
 | 119 |[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)|[Python](./src/PascalTriangleII/pascal_triangle_II.py)|2014/11/10|Easy|
 | 118 |[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)|[Python](./src/PascalTriangleI/pascal_triangle_I.py)|2014/11/10|Easy|
 | 117 |[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Python](./src/PopulatingNextRightPointersInEachNodeII/populating_next_right_pointers_in_each_node_ii.py)|2015/03/01|Hard|
