@@ -66,7 +66,7 @@ LeetCode Python Solutions by Yagao0o
 | 117 |[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|||Hard|
 | 116 |[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)|||Medium|
 | 115 |[Distinct Subsequences](https://oj.leetcode.com/problems/distinct-subsequences/)|||Hard|
-| 114 |[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)|||Medium|
+| 114 |[Flatten Binary Tree to Linked List](https://oj.leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Python](./src/FlattenBinaryTreeToLinkedList/flatten_binary_to_linked_list.py)||Medium|
 | 113 |[Path Sum II](https://oj.leetcode.com/problems/path-sum-ii/)|[Python](./src/PathSumII/path_sum_II.py)|2014/11/16|Medium|
 | 112 |[Path Sum](https://oj.leetcode.com/problems/path-sum/)|[Python](./src/PathSum/path_sum.py)|2014/11/16|Easy|
 | 111 |[Minimum Depth of Binary Tree](https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/)|[Python](./src/MinDepOfBinaryTree/min_dep_of_binary_tree.py)|2014/11/16|Easy|
