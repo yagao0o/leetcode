@@ -75,7 +75,7 @@ LeetCode Python Solutions by Yagao0o
 | 108 |[Convert Sorted Array to Binary Search Tree](https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|||Medium|
 | 107 |[Binary Tree Level Order Traversal II](https://oj.leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](./src/BinaryTreeLevelOrderTraversalII/binary_tree_level_order_traversal_ii.py)|2015/01/23|Easy|
 | 106 |[Construct Binary Tree from Inorder and Postorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|||Medium|
-| 105 |[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|||Medium|
+| 105 |[Construct Binary Tree from Preorder and Inorder Traversal](https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](./src/ConstructBinaryTreeFromPreorderAndInorderTraversal/construct_binary_tree_from_preorder_and_inorder_traversal.py)|2015/03/01|Medium|
 | 104 |[Maximum Depth of Binary Tree](https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](./src/MaxDepOfBinaryTree/max_dep_of_binary_tree.py)|2014/11/16|Easy|
 | 103 |[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](./src/BinaryTreeZigzagLevelOrderTraversal/binary_tree_zigzag_level_order_traversal.py)|2015/03/01|Medium|
 | 102 |[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](src/BinaryTreeLevelOrderTraversal/binary_tree_level_order_traversal.py)|2015/01/23|Easy|
