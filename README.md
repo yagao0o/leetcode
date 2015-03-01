@@ -179,4 +179,4 @@ LeetCode Python Solutions by Yagao0o
 |  4  |[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| | |Hard|
 |  3  |[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](./src/LongestSubstringWithoutRepeatingCharacters/longest_substring_without_repeating_characters.py)|2015/01/26|Medium|
 |  2  |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)|[Python](./src/AddTwoNumbers/add_two_numbers.py)|2015/01/26|Medium|
-|  1  |[Two Sum](https://oj.leetcode.com/problems/two-sum/)| | |Medium|
+|  1  |[Two Sum](https://oj.leetcode.com/problems/two-sum/)|[Python](./src/TwoSum/two_sum.py)|2015/01/25|Medium|
