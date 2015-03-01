@@ -59,7 +59,7 @@ LeetCode Python Solutions by Yagao0o
 | 124 |[Binary Tree Maximum Path Sum](https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/)|||Hard|
 | 123 |[Best Time to Buy and Sell Stock III](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|||Hard|
 | 122 |[Best Time to Buy and Sell Stock II](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|||Medium|
-| 121 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)|||Medium|
+| 121 |[Best Time to Buy and Sell Stock](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./src/BestTmeToBuyAndSellStock/best_time_to_buy_and_sell_stock.py)|2015/03/01|Medium|
 | 120 |[Triangle](https://oj.leetcode.com/problems/triangle/)|[Python](./src/Triangle/triangle.py)|2015/03/01|Medium|
 | 119 |[Pascal's Triangle II](https://oj.leetcode.com/problems/pascals-triangle-ii/)|[Python](./src/PascalTriangleII/pascal_triangle_II.py)|2014/11/10|Easy|
 | 118 |[Pascal's Triangle](https://oj.leetcode.com/problems/pascals-triangle/)|[Python](./src/PascalTriangleI/pascal_triangle_I.py)|2014/11/10|Easy|
