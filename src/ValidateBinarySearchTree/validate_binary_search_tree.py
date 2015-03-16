@@ -1,5 +1,5 @@
 # Author  :  Yagao0o
-# Date    :  2015-02-
+# Date    :  2015-02-28
 # Source  :  https://oj.leetcode.com/problems/validate-binary-search-tree/
 
 # Given a binary tree, determine if it is a valid binary search tree (BST).
