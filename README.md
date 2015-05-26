@@ -46,7 +46,7 @@ LeetCode Python Solutions by Yagao0o
 | 137 |[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)|||Medium|
 | 136 |[Single Number](https://oj.leetcode.com/problems/single-number/)|||Medium|
 | 135 |[Candy](https://oj.leetcode.com/problems/candy/)|||Hard|
-| 134 |[Gas Station](https://oj.leetcode.com/problems/gas-station/)|||Medium|
+| 134 |[Gas Station](https://oj.leetcode.com/problems/gas-station/)|[Python](./src/GasStation/gas_station.py)|2015/05/26|Medium|
 | 133 |[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)|[Python](./src/CloneGraph/clone_graph.py)|2015/05/26|Medium|
 | 132 |[Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)|||Hard|
 | 131 |[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)|[Python](./src/PalindromePartitioning/palindrome_partitioning.py)|2015/05/26|Medium|

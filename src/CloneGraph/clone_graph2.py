@@ -51,10 +51,3 @@ class Solution:
                 if neigh_label not in traveled:
                     current.add(neigh)
         return node_dic[node.label]
-
-a = Solution()
-n0 = UndirectedGraphNode(0)
-n1 = UndirectedGraphNode(1)
-n0.neighbors = [n1]
-n1.neighbors = [n0,n1]
-a.cloneGraph(n0)
