@@ -49,7 +49,7 @@ LeetCode Python Solutions by Yagao0o
 | 134 |[Gas Station](https://oj.leetcode.com/problems/gas-station/)|||Medium|
 | 133 |[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)|||Medium|
 | 132 |[Palindrome Partitioning II](https://oj.leetcode.com/problems/palindrome-partitioning-ii/)|||Hard|
-| 131 |[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)|||Medium|
+| 131 |[Palindrome Partitioning](https://oj.leetcode.com/problems/palindrome-partitioning/)|[Python](./src/PalindromePartitioning/palindrome_partitioning.py)|2015/05/26|Medium|
 | 130 |[Surrounded Regions](https://oj.leetcode.com/problems/surrounded-regions/)|[Python](./src/SurroundedRegions/surrounded_regions.py)|2015/05/25|Medium|
 | 129 |[Sum Root to Leaf Numbers](https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](./src/SumRootToLeafNumbers/sum_root_to_leaf_numbers.py)|2015/05/25|Medium|
 | 128 |[Longest Consecutive Sequence](https://oj.leetcode.com/problems/longest-consecutive-sequence/)|||Hard|
