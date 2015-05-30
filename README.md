@@ -44,7 +44,7 @@ LeetCode Python Solutions by Yagao0o
 | 139 |[Word Break](https://oj.leetcode.com/problems/word-break/)|||Medium|
 | 138 |[Copy List with Random Pointer](https://oj.leetcode.com/problems/copy-list-with-random-pointer/)|||Hard|
 | 137 |[Single Number II](https://oj.leetcode.com/problems/single-number-ii/)|||Medium|
-| 136 |[Single Number](https://oj.leetcode.com/problems/single-number/)|||Medium|
+| 136 |[Single Number](https://oj.leetcode.com/problems/single-number/)|[Python](./src/SingleNumber/single_number.py)|2015/05/30|Medium|
 | 135 |[Candy](https://oj.leetcode.com/problems/candy/)|||Hard|
 | 134 |[Gas Station](https://oj.leetcode.com/problems/gas-station/)|[Python](./src/GasStation/gas_station.py)|2015/05/26|Medium|
 | 133 |[Clone Graph](https://oj.leetcode.com/problems/clone-graph/)|[Python](./src/CloneGraph/clone_graph.py)|2015/05/26|Medium|
