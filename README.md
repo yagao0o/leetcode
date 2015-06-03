@@ -38,7 +38,7 @@ LeetCode Python Solutions by Yagao0o
 | 145 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)|||Hard|
 | 144 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)|||Medium|
 | 143 |[Reorder List](https://oj.leetcode.com/problems/reorder-list/)|||Medium|
-| 142 |[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)|||Medium|
+| 142 |[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)|[Python](./src/LinkedListCycleII/linked_list_cycle_ii.py)|2015/06/03|Medium|
 | 141 |[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)|[Python](./src/LinkedListCycle/linked_list_cycle.py)|2015/06/03|Medium|
 | 140 |[Word Break II](https://oj.leetcode.com/problems/word-break-ii/)|||Hard|
 | 139 |[Word Break](https://oj.leetcode.com/problems/word-break/)|[Python](./src/WordBreak/word_break.py)|2015/06/02|Medium|
