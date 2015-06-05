@@ -36,7 +36,7 @@ LeetCode Python Solutions by Yagao0o
 | 147 |[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)|||Medium|
 | 146 |[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)|||Hard|
 | 145 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)|||Hard|
-| 144 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)|||Medium|
+| 144 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./src/BinaryTreePreorderTraversal/binary_tree_preorder_traversal.py)|2015/06/05|Medium|
 | 143 |[Reorder List](https://oj.leetcode.com/problems/reorder-list/)|[Python](./src/ReorderList/reorder_list.py)|2015/06/05|Medium|
 | 142 |[Linked List Cycle II](https://oj.leetcode.com/problems/linked-list-cycle-ii/)|[Python](./src/LinkedListCycleII/linked_list_cycle_ii.py)|2015/06/03|Medium|
 | 141 |[Linked List Cycle](https://oj.leetcode.com/problems/linked-list-cycle/)|[Python](./src/LinkedListCycle/linked_list_cycle.py)|2015/06/03|Medium|
