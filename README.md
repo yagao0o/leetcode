@@ -27,7 +27,7 @@ LeetCode Python Solutions by Yagao0o
 | 156 |[Binary Tree Upside Down](https://oj.leetcode.com/problems/binary-tree-upside-down/)|||Medium|
 | 155 |[Min Stack](https://oj.leetcode.com/problems/min-stack/)|[Python](./src/MinStack/min_stack.py)|2014/11/10|Easy|
 | 154 |[Find Minimum in Rotated Sorted Array II](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|||Hard|
-| 153 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|||Medium|
+| 153 |[Find Minimum in Rotated Sorted Array](https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](./src/FindMinimumInRotatedSortedArray/find_minimum_in_rotated_sorted_array.py)|2015/06/09|Medium|
 | 152 |[Maximum Product Subarray](https://oj.leetcode.com/problems/maximum-product-subarray/)|[Python](./src/MaximumProductSubarray/maximum_product_subarray.py)|2015/06/09|Medium|
 | 151 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)|[Python](./src/ReverseWordsInAString/reverse_words_in_a_string.py)|2015/06/08|Medium|
 | 150 |[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./src/EvaluateReversePolishNotation/evaluate_reverse_polish_notation.py)|2015/06/08|Medium|
