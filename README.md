@@ -46,7 +46,7 @@ LeetCode Python Solutions by Yagao0o
 | 169 |[Majority Element](https://oj.leetcode.com/problems/majority-element/)|[Python](./src/MajorityElement/majority_number.py)|2015/01/24|Easy|
 | 168 |[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/)|[Python](./src/ExcelSheetColumnTitle/excel_sheet_column_title.py)|2015/01/04|Easy|
 | 167 |[Two Sum II - Input array is sorted ](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|||Medium|
-| 166 |[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/)|||Medium|
+| 166 |[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/)|[Python](./src/FractionToRecurringDecimal/fraction_to_recurring_decimal.py)|2015/06/09|Medium|
 | 165 |[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/)|[Python](src/CompareVersionNumbers/compare_version_numbers.py)|2015/01/24|Easy|
 | 164 |[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/)|||Hard|
 | 163 |[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/)|||Medium|
