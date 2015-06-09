@@ -50,7 +50,7 @@ LeetCode Python Solutions by Yagao0o
 | 165 |[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/)|[Python](src/CompareVersionNumbers/compare_version_numbers.py)|2015/01/24|Easy|
 | 164 |[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/)|||Hard|
 | 163 |[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/)|||Medium|
-| 162 |[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/)|||Medium|
+| 162 |[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/)|[Python](./src/FindPeakElement/find_peak_element.py)|2015/06/09|Medium|
 | 161 |[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)|||Medium|
 | 160 |[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/)|[Python](./src/IntersectionOfTwoLinkedLists/intersection_of_two_linked_lists.py)|2015/01/23|Easy|
 | 159 |[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|||Hard|
