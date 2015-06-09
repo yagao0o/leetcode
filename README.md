@@ -5,6 +5,38 @@ LeetCode Python Solutions by Yagao0o
 
 |  #  | Title | Solution | Solve Date  | Difficulty |
 | --- | ----- | -------- | ----------  | ---------- |
+| 223 |[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|||Easy|
+| 222 |[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|||Medium|
+| 221 |[Maximal Square](https://leetcode.com/problems/maximal-square/)|||Medium|
+| 220 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|||Medium|
+| 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|||Easy|
+| 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|||Hard|
+| 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|||Easy|
+| 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|||Medium|
+| 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|||Medium|
+| 214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|||Hard|
+| 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)|||Medium|
+| 212 |[Word Search II](https://leetcode.com/problems/word-search-ii/)|||Hard|
+| 211 |[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|||Medium|
+| 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|||Medium|
+| 209 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|||Medium|
+| 208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|||Medium|
+| 207 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|||Medium|
+| 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|||Easy|
+| 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|||Easy|
+| 204 |[Count Primes](https://leetcode.com/problems/count-primes/)|||Easy|
+| 203 |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|||Easy|
+| 202 |[Happy Number](https://leetcode.com/problems/happy-number/)|||Easy|
+| 201 |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|||Medium|
+| 200 |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|||Medium|
+| 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|||Medium|
+| 198 |[House Robber](https://leetcode.com/problems/house-robber/)|||Easy|
+| 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|||Easy|
+| 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|||Easy|
+| 189 |[Rotate Array](https://leetcode.com/problems/rotate-array/)|||Easy|
+| 188 |[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|||Hard|
+| 187 |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|||Medium|
+| 186 |[Reverse Words in a String II ](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|||Medium|
 | 179 |[Largest Number](https://oj.leetcode.com/problems/largest-number/)|||Medium|
 | 174 |[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/)|||Hard|
 | 173 |[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/)|||Medium|
