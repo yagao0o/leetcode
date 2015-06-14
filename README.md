@@ -37,7 +37,7 @@ LeetCode Python Solutions by Yagao0o
 | 188 |[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|||Hard|
 | 187 |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|||Medium|
 | 186 |[Reverse Words in a String II ](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|||Medium|
-| 179 |[Largest Number](https://oj.leetcode.com/problems/largest-number/)|||Medium|
+| 179 |[Largest Number](https://oj.leetcode.com/problems/largest-number/)|[Python](./src/LargestNumber/largest_number.py)|2015/06/14|Medium|
 | 174 |[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/)|||Hard|
 | 173 |[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/)|[Python](./src/BinarySearchTreeIterator/binary_search_tree_iterator.py)|2015/06/09|Medium|
 | 172 |[Factorial Trailing Zeroes](https://oj.leetcode.com/problems/factorial-trailing-zeroes/)|[Python](./src/FactorialTrailingZeroes/factorial_trailing_zeroes.py)|2015/01/24|Easy|
