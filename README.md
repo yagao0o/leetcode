@@ -27,7 +27,7 @@ LeetCode Python Solutions by Yagao0o
 | 204 |[Count Primes](https://leetcode.com/problems/count-primes/)|||Easy|
 | 203 |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|||Easy|
 | 202 |[Happy Number](https://leetcode.com/problems/happy-number/)|||Easy|
-| 201 |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|||Medium|
+| 201 |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Python](./src/BitwiseAndOfNumbersRange/bitwise_and_of_numbers_range.py)|2015/06/15|Medium|
 | 200 |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](./src/NumberOfIslands/number_of_islands.py)|2015/06/15|Medium|
 | 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](./src/BinaryTreeRightSideView/binary_tree_right_side_view.py)|2015/06/15|Medium|
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)|[Python](./src/HouseRobber/house_robber.py)|2015/06/14|Easy|
