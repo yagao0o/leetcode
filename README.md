@@ -22,8 +22,8 @@ LeetCode Python Solutions by Yagao0o
 | 209 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|||Medium|
 | 208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|||Medium|
 | 207 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|||Medium|
-| 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|||Easy|
-| 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|||Easy|
+| 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./src/ReverseLinkedList/reverse_linked_list.py)|2015/06/16|Easy|
+| 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./src/IsomorphicStrings/isomorphic_strings.py)|2015/06/16|Easy|
 | 204 |[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](./src/CountPrimes/count_primes.py)|2015/06/16|Easy|
 | 203 |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./src/RemoveLinkedListElements/remove_linked_list_elements.py)|2015/06/16|Easy|
 | 202 |[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](./src/HappyNumber/happy_number.py)|2015/06/16|Easy|
