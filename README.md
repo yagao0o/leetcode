@@ -20,7 +20,7 @@ LeetCode Python Solutions by Yagao0o
 | 211 |[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|||Medium|
 | 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|||Medium|
 | 209 |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|||Medium|
-| 208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|||Medium|
+| 208 |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Python](./src/ImplementTriePrefixTree/implement_trie_prefix_tree.py)|2015/06/16|Medium|
 | 207 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](./src/CourseSchedule/course_schedule.py)|2015/06/16|Medium|
 | 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./src/ReverseLinkedList/reverse_linked_list.py)|2015/06/16|Easy|
 | 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Python](./src/IsomorphicStrings/isomorphic_strings.py)|2015/06/16|Easy|
