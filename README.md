@@ -24,7 +24,7 @@ LeetCode Python Solutions by Yagao0o
 | 207 |[Course Schedule](https://leetcode.com/problems/course-schedule/)|||Medium|
 | 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|||Easy|
 | 205 |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|||Easy|
-| 204 |[Count Primes](https://leetcode.com/problems/count-primes/)|||Easy|
+| 204 |[Count Primes](https://leetcode.com/problems/count-primes/)|[Python](./src/CountPrimes/count_primes.py)|2015/06/16|Easy|
 | 203 |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./src/RemoveLinkedListElements/remove_linked_list_elements.py)|2015/06/16|Easy|
 | 202 |[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](./src/HappyNumber/happy_number.py)|2015/06/16|Easy|
 | 201 |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Python](./src/BitwiseAndOfNumbersRange/bitwise_and_of_numbers_range.py)|2015/06/15|Medium|
