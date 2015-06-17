@@ -15,7 +15,7 @@ LeetCode Python Solutions by Yagao0o
 | 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|||Medium|
 | 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|||Medium|
 | 214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|||Hard|
-| 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)|||Medium|
+| 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Python](./Algorithms/HouseRobberII/house_robber_ii.py)|2015/06/17|Medium|
 | 212 |[Word Search II](https://leetcode.com/problems/word-search-ii/)|||Hard|
 | 211 |[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Python](./Algorithms/AddAndSearchWord/add_and_search_word.py)|2015/06/16|Medium|
 | 210 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Python](./Algorithms/CourseScheduleII/course_schedule_ii.py)|2015/06/16|Medium|
