@@ -8,7 +8,7 @@ LeetCode Python Solutions by Yagao0o
 | 223 |[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|||Easy|
 | 222 |[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|||Medium|
 | 221 |[Maximal Square](https://leetcode.com/problems/maximal-square/)|||Medium|
-| 220 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|||Medium|
+| 220 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Python](./Algorithms/ContainsDuplicateIII/contains_duplicate_iii.py)|2015/06/17|Medium|
 | 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Python](./Algorithms/ContainsDuplicateII/contains_duplicate_ii.py)|2015/06/17|Easy|
 | 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|||Hard|
 | 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Algorithms/ContainsDuplicate/contains_duplicate.py)|2015/06/17|Easy|
