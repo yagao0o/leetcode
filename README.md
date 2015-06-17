@@ -12,7 +12,7 @@ LeetCode Python Solutions by Yagao0o
 | 219 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|||Easy|
 | 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|||Hard|
 | 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|||Easy|
-| 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|||Medium|
+| 216 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Python](./Algorithms/CombinationSumIII/combination_sum_iii.py)|2015/06/17|Medium|
 | 215 |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](./Algorithms/KthLargestElementInAnArray/kth_largest_element_in_an_array.py)|2015/06/17|Medium|
 | 214 |[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|||Hard|
 | 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Python](./Algorithms/HouseRobberII/house_robber_ii.py)|2015/06/17|Medium|
