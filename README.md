@@ -5,7 +5,7 @@ LeetCode Python Solutions by Yagao0o
 
 |  #  | Title | Solution | Solve Date  | Difficulty |
 | --- | ----- | -------- | ----------  | ---------- |
-| 223 |[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|||Easy|
+| 223 |[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Python](./Algorithms/RectangleArea/rectangle_area.py)|2015/06/23|Easy|
 | 222 |[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Python](./Algorithms/CountCompleteTreeNodes/count_complete_tree_nodes.py)|2015/06/23|Medium|
 | 221 |[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Python](./Algorithms/MaximalSquare/maximal_square.py)|2015/06/17|Medium|
 | 220 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[Python](./Algorithms/ContainsDuplicateIII/contains_duplicate_iii.py)|2015/06/17|Medium|
