@@ -6,7 +6,7 @@ LeetCode Python Solutions by Yagao0o
 |  #  | Title | Solution | Solve Date  | Difficulty |
 | --- | ----- | -------- | ----------  | ---------- |
 | 227 |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|||Medium|
-| 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|||Easy|
+| 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Algorithms/InvertBinaryTree/invert_binary_tree.py)|2015/06/24|Easy|
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python](./Algorithms/ImplementStackUsingQueues/implement_stack_using_queues.py)|2015/06/24|Medium|
 | 224 |[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Python](./Algorithms/BasicCalculator/basic_calculator.py)|2015/06/24|Medium|
 | 223 |[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Python](./Algorithms/RectangleArea/rectangle_area.py)|2015/06/23|Easy|
