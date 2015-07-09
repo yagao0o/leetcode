@@ -5,6 +5,12 @@ LeetCode Python Solutions by Yagao0o
 
 |  #  | Title | Solution | Solve Date  | Difficulty |
 | --- | ----- | -------- | ----------  | ---------- |
+| 233 |[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|||Medium|
+| 232 |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|||Easy|
+| 231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|||Easy|
+| 230 |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|||Medium|
+| 229 |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|||Medium|
+| 228 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](./Algorithms/SummaryRanges/summary_ranges.py)|2015/07/09|Easy|
 | 227 |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Python](./Algorithms/BasicCalculatorII/basic_calculator_ii.py)|2015/06/24|Medium|
 | 226 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](./Algorithms/InvertBinaryTree/invert_binary_tree.py)|2015/06/24|Easy|
 | 225 |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python](./Algorithms/ImplementStackUsingQueues/implement_stack_using_queues.py)|2015/06/24|Medium|
