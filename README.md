@@ -7,7 +7,7 @@ LeetCode Python Solutions by Yagao0o
 | --- | ----- | -------- | ----------  | ---------- |
 | 233 |[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|||Medium|
 | 232 |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|||Easy|
-| 231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|||Easy|
+| 231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](./Algorithms/PowerOfTwo/power_of_two.py)|2015/08/06|Easy|
 | 230 |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|||Medium|
 | 229 |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|||Medium|
 | 228 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](./Algorithms/SummaryRanges/summary_ranges.py)|2015/07/09|Easy|
