@@ -5,6 +5,29 @@ LeetCode Python Solutions by Yagao0o
 
 |  #  | Title | Solution | Solve Date  | Difficulty |
 | --- | ----- | -------- | ----------  | ---------- |
+| 256 |[Paint House](https://leetcode.com/problems/paint-house/)|||Medium|
+| 255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|||Medium|
+| 254 |[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|||Medium|
+| 253 |[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|||Medium|
+| 252 |[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|||Easy|
+| 251 |[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|||Medium|
+| 250 |[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|||Medium|
+| 249 |[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|||Easy|
+| 248 |[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/)|||Hard|
+| 247 |[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|||Medium|
+| 246 |[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|||Easy|
+| 245 |[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|||Medium|
+| 244 |[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|||Medium|
+| 243 |[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|||Easy|
+| 242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|||Easy|
+| 241 |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|||Medium|
+| 240 |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|||Medium|
+| 239 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|||Hard|
+| 238 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|||Medium|
+| 237 |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|||Easy|
+| 236 |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|||Medium|
+| 235 |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|||Easy|
+| 234 |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|||Easy|
 | 233 |[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[Python](./Algorithms/NumberOfDigitOne/number_of_digit_one.py)|2015/08/07|Medium|
 | 232 |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./Algorithms/ImplementQueueUsingStacks/implement_queue_using_stacks.py)|2015/08/06|Easy|
 | 231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Python](./Algorithms/PowerOfTwo/power_of_two.py)|2015/08/06|Easy|
