@@ -24,7 +24,7 @@ LeetCode Python Solutions by Yagao0o
 | 240 |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|||Medium|
 | 239 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|||Hard|
 | 238 |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|||Medium|
-| 237 |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|||Easy|
+| 237 |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](./Algorithms/DeleteNodeInALinkedList/delete_node_in_a_linked_list.py)|2015/09/02|Easy|
 | 236 |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](./Algorithms/LowestCommonAncestorOfABinaryTree/lowest_common_ancestor_of_a_binary_tree.py)|2015/09/02|Medium|
 | 235 |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](./Algorithms/LowestCommonAncestorOfABinarySearchTree/lowest_common_ancestor_of_a_binary_search_tree.py)|2015/08/15|Easy|
 | 234 |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Python](./Algorithms/PalindromeLinkedList/palindrome_linked_list.py)|2015/08/15|Easy|
