@@ -2,3 +2,8 @@
 .py[co]
 .idea/
 test/
+
+#Java
+java/Main.java
+java/java.iml
+java/out/
