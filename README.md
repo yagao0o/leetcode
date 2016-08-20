@@ -236,7 +236,7 @@ LeetCode Python Solutions by Yagao0o
 |  12 |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)|[Python](./python/IntegerToRoman/integer_to_roman.py)|2014/11/7|Medium|
 |  11 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)|[Python](./python/ContainerWithMostWater/container_with_most_water.py)|2015/01/27|Medium|
 |  10 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)|[Python](./python/RegularExpressionMatching/regular_expression_matching.py)|2015/10/15|Hard|
-|  9  |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Python](./python/PalindromeNumber/palindrome_number.py)|2014/11/4|Easy|
+|  9  |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Python](./python/PalindromeNumber/palindrome_number.py)  [Java](./java/PalindromeNumber/Solution.java)|2014/11/4|Easy|
 |  8  |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Python](./python/StringToInteger/string_to_integer.py)  [Java](./java/StringToInteger/Solution.java)|2014/11/3|Easy|
 |  7  |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./python/ReverseInteger/reverse_integer.py)  [Java](./java/ReverseInteger/Solution.java)|2014/11/01|Easy|
 |  6  |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|[Python](./python/ZigZagConversion/zigzag_conversion.py)  [Java](./java/ZigZagConversion/Solution.java)|2015/01/06|Easy|
