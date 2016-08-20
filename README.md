@@ -238,7 +238,7 @@ LeetCode Python Solutions by Yagao0o
 |  10 |[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)|[Python](./python/RegularExpressionMatching/regular_expression_matching.py)|2015/10/15|Hard|
 |  9  |[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)|[Python](./python/PalindromeNumber/palindrome_number.py)|2014/11/4|Easy|
 |  8  |[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)|[Python](./python/StringToInteger/string_to_integer.py)|2014/11/3|Easy|
-|  7  |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./python/ReverseInteger/reverse_integer.py)|2014/11/01|Easy|
+|  7  |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)|[Python](./python/ReverseInteger/reverse_integer.py)  [Java](./java/ReverseInteger/Solution.java)|2014/11/01|Easy|
 |  6  |[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)|[Python](./python/ZigZagConversion/zigzag_conversion.py)  [Java](./java/ZigZagConversion/Solution.java)|2015/01/06|Easy|
 |  5  |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)|[Python](./python/LongestPalindromicSubstring/longest_palindromic_substring.py)  [Java](./java/LongestPalindromicSubstring/Solution.java)|2015/01/27|Medium|
 |  4  |[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](./python/MedianOfTwoSortedArrays/median_of_two_sorted_arrays.py)  [Java](./java/MedianOfTwoSortedArrays/Solution.java) |2015/09/15 |Hard|
