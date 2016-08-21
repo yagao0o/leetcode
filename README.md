@@ -231,7 +231,7 @@ LeetCode Python Solutions by Yagao0o
 |  17 |[4Sum](https://oj.leetcode.com/problems/4sum/)|[Python](./python/4Sum/4_sum.py)|2015/02/03 |Medium|
 |  16 |[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)|[Python](./python/3SumClosest/3_sum_closest.py)|2015/02/02|Medium|
 |  15 |[3Sum](https://oj.leetcode.com/problems/3sum/)|[Python](./python/3Sum/3_sum.py)|2015/01/29|Medium|
-|  14 |[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)|[Python](./python/LongestCommonPrefix/longest_common_prefix.py)|2014/11/10|Easy|
+|  14 |[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)|[Python](./python/LongestCommonPrefix/longest_common_prefix.py)  [Java](./java/LongestCommonPrefix/Solution.java)|2014/11/10|Easy|
 |  13 |[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)|[Python](./python/RomanToInteger/roman_to_integer.py)  [Java](./java/RomanToInteger/Solution.java)|2014/11/6|Easy|
 |  12 |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)|[Python](./python/IntegerToRoman/integer_to_roman.py)  [Java](./java/IntegerToRoman/Solution.java)|2014/11/7|Medium|
 |  11 |[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)|[Python](./python/ContainerWithMostWater/container_with_most_water.py)  [Java](./java/ContainerWithMostWater/Solution.java)|2015/01/27|Medium|
