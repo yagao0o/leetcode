@@ -4,7 +4,12 @@ package MedianOfTwoSortedArrays;
  * Created by Luyz on 16/8/19.
  */
 public class Solution {
-    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+    public double findMedianSortedArrays(int[] nums1, int[] nums2){
+        int[] mergedList = merge(nums1, nums2);
+        return findMedianFromList(mergedList, 0, mergedList.length - 1);
+    }
+
+    public double findMedianSortedArrays2(int[] nums1, int[] nums2) {
         int headA = 0,headB =0;
         int tailA = nums1.length - 1, tailB = nums2.length - 1;
         while (headA <= tailA && headB <= tailB && leftNumbers(headA, tailA, headB, tailB) > 2){
@@ -48,10 +53,7 @@ public class Solution {
     }
 
 
-    public double findMedianSortedArrays2(int[] nums1, int[] nums2){
-        int[] mergedList = merge(nums1, nums2);
-        return findMedianFromList(mergedList, 0, mergedList.length - 1);
-    }
+
 
     public int[] merge(int[] nums1, int[] nums2){
         int[] result = new int[nums1.length + nums2.length];
