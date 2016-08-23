@@ -224,7 +224,7 @@ LeetCode Python Solutions by Yagao0o
 |  24 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)|[Python](./python/SwapNodesInPairs/swap_nodes_in_pairs.py)|2015/02/04|Medium|
 |  23 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)|[Python](./python/MergeKSortedLists/merge_k_sorted_lists.py)|2015/10/05|Hard|
 |  22 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)|[Python](./python/GenerateParentheses/genrate_parentheses.py)|2015/02/04|Medium|
-|  21 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./python/MergeTwoSortedLists/merge_two_sorted_lists.py)|2015/01/06|Easy|
+|  21 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./python/MergeTwoSortedLists/merge_two_sorted_lists.py)  [Java](./java/MergeTwoSortedLists/Solution.java)|2015/01/06|Easy|
 |  20 |[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[Python](./python/ValidParentheses/valid_parentheses.py)|2015/01/06  [Java](./java/ValidParentheses/Solution.java)|Easy|
 |  19 |[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](./python/RemoveNthFromEndOfList/remove_nth_from_end_of_list.py)  [Java](./java/RemoveNthFromEndOfList/Solution.java)|2015/01/06|Easy|
 |  18 |[4Sum](https://oj.leetcode.com/problems/4sum/)|[Python](./python/4Sum/4_sum.py)|2015/02/03 |Medium|
