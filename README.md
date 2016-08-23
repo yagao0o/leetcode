@@ -222,7 +222,7 @@ LeetCode Python Solutions by Yagao0o
 |  26 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./python/RemoveDuplicatesFromSortedArray/remove_duplicates_from_sorted_array.py)|2015/01/22|Easy|
 |  25 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)|||Hard|
 |  24 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)|[Python](./python/SwapNodesInPairs/swap_nodes_in_pairs.py)|2015/02/04|Medium|
-|  23 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)|[Python](./python/MergeKSortedLists/merge_k_sorted_lists.py)|2015/10/05|Hard|
+|  23 |[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)|[Python](./python/MergeKSortedLists/merge_k_sorted_lists.py)|2015/10/05  [Java](./java/MergeKSortedList/Solution.java)|Hard|
 |  22 |[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)|[Python](./python/GenerateParentheses/genrate_parentheses.py)  [Java](./java/GenerateParentheses/Solution.java)|2015/02/04|Medium|
 |  21 |[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)|[Python](./python/MergeTwoSortedLists/merge_two_sorted_lists.py)  [Java](./java/MergeTwoSortedLists/Solution.java)|2015/01/06|Easy|
 |  20 |[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)|[Python](./python/ValidParentheses/valid_parentheses.py)|2015/01/06  [Java](./java/ValidParentheses/Solution.java)|Easy|
