@@ -218,7 +218,7 @@ LeetCode Python Solutions by Yagao0o
 |  30 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|||Hard|
 |  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|[Python](./python/DivideTwoIntegers/divide_two_integers.py)|2015/02/04|Medium|
 |  28 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[Python](./python/ImplementStrstr/implement_strstr.py)|2015/01/22|Easy|
-|  27 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Python](./python/RemoveElement/remove_element.py)|2015/01/22|Easy|
+|  27 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Python](./python/RemoveElement/remove_element.py)  [Java](./java/RemoveElement/Solution.java)|2015/01/22|Easy|
 |  26 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./python/RemoveDuplicatesFromSortedArray/remove_duplicates_from_sorted_array.py)  [Java](./java/RemoveDuplicatesFromSortedArray/Solution.java)|2015/01/22|Easy|
 |  25 |[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](./java/ReverseNodesInKGroup/Solution.java)| 2016/08/23|Hard|
 |  24 |[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)|[Python](./python/SwapNodesInPairs/swap_nodes_in_pairs.py)  [Java](./java/SwapNodesInPairs/Solution.java)|2015/02/04|Medium|
