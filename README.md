@@ -5,6 +5,7 @@ LeetCode Python Solutions by Yagao0o
 
 |  #  | Title | Solution | Solve Date  | Difficulty |
 | --- | ----- | -------- | ----------  | ---------- |
+| 389 |[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./python/FindTheDifference/find_the_difference.py)|2016/08/31|Easy|
 | 256 |[Paint House](https://leetcode.com/problems/paint-house/)|||Medium|
 | 255 |[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|||Medium|
 | 254 |[Factor Combinations](https://leetcode.com/problems/factor-combinations/)|||Medium|
