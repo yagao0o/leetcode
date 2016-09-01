@@ -214,7 +214,7 @@ LeetCode Python Solutions by Yagao0o
 |  35 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|[Python](./python/SearchInsertPosition/search_insert_position.py)|2015/02/06|Medium|
 |  34 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)|[Python](./python/SearchForARange/search_for_a_range.py)|2015/02/05|Medium|
 |  33 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)|||Hard|
-|  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|||Hard|
+|  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|[Python](./python/LongestValidParentheses/longest_valid_parentheses.py)|2016/09/01|Hard|
 |  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|[Python](./python/NextPermutation/next_permutation.py)|2014/02/05|Medium|
 |  30 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|||Hard|
 |  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|[Python](./python/DivideTwoIntegers/divide_two_integers.py)|2015/02/04|Medium|
