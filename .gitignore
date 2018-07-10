@@ -1,3 +1,5 @@
+.DS_Store
+
 #Python
 .py[co]
 .idea/
