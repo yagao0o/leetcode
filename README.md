@@ -217,7 +217,7 @@ LeetCode Python Solutions by Yagao0o
 |  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|[Python](./python/LongestValidParentheses/longest_valid_parentheses.py)|2016/09/01|Hard|
 |  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|[Python](./python/NextPermutation/next_permutation.py)|2014/02/05|Medium|
 |  30 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|||Hard|
-|  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|[Python](./python/DivideTwoIntegers/divide_two_integers.py)|2015/02/04|Medium|
+|  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|[Python](./python/DivideTwoIntegers/divide_two_integers.py) [Java](./java/DivideTwoIntegers/Solution.java)|2015/02/04|Medium|
 |  28 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[Python](./python/ImplementStrstr/implement_strstr.py)  [Java](./java/ImplementStrstr/Solution.java)|2015/01/22|Easy|
 |  27 |[Remove Element](https://oj.leetcode.com/problems/remove-element/)|[Python](./python/RemoveElement/remove_element.py)  [Java](./java/RemoveElement/Solution.java)|2015/01/22|Easy|
 |  26 |[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./python/RemoveDuplicatesFromSortedArray/remove_duplicates_from_sorted_array.py)  [Java](./java/RemoveDuplicatesFromSortedArray/Solution.java)|2015/01/22|Easy|
