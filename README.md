@@ -215,7 +215,7 @@ LeetCode Python Solutions by Yagao0o
 |  34 |[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)|[Python](./python/SearchForARange/search_for_a_range.py)|2015/02/05|Medium|
 |  33 |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./python/SearchInsertPosition)|2016/09/01|Hard|
 |  32 |[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)|[Python](./python/LongestValidParentheses/longest_valid_parentheses.py)|2016/09/01|Hard|
-|  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|[Python](./python/NextPermutation/next_permutation.py)|2014/02/05|Medium|
+|  31 |[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)|[Python](./python/NextPermutation/next_permutation.py) [Java](./java/NextPermutation/Solution.java)|2014/02/05|Medium|
 |  30 |[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)|||Hard|
 |  29 |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)|[Python](./python/DivideTwoIntegers/divide_two_integers.py) [Java](./java/DivideTwoIntegers/Solution.java)|2015/02/04|Medium|
 |  28 |[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)|[Python](./python/ImplementStrstr/implement_strstr.py)  [Java](./java/ImplementStrstr/Solution.java)|2015/01/22|Easy|
