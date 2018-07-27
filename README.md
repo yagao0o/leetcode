@@ -209,7 +209,7 @@ LeetCode Python Solutions by Yagao0o
 |  40 |[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)|[Python](./python/CombinationSumII/combination_sum_ii.py)|2015/02/06|Medium|
 |  39 |[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)|[Python](./python/CombinationSum/combination_sum.py)|2015/02/06|Medium|
 |  38 |[Count and Say](https://oj.leetcode.com/problems/count-and-say/)|[Python](./python/CountAndSay/count_and_say.py)|2014/10/27|Easy|
-|  37 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)|[Python](./python/SodukuSolver/sudoku_sovler.py)|2016/09/05|Hard|
+|  37 |[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)|[Python](./python/SodukuSolver/sudoku_sovler.py) [Java](./java/ValidSudoku/Solution.java)|2016/09/05|Hard|
 |  36 |[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)|[Python](./python/ValidSudoku/valid_sudoku.py)|2015/01/22|Easy|
 |  35 |[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)|[Python](./python/SearchInsertPosition/search_insert_position.py) [Java](./java/SearchInsertPosition/Solution.java)|2015/02/06|Medium|
 |  34 |[Find First and Last Position of Element in Sorted Array](https://oj.leetcode.com/problems/search-for-a-range/)|[Python](./python/SearchForARange/search_for_a_range.py) [Java](./java/FindFirstAndLastPositionOfElementInSortedArray/Solution.java)|2015/02/05|Medium|
