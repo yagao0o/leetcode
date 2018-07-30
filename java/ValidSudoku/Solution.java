@@ -49,7 +49,7 @@ class Solution {
         }
         return true;
     }
-    
+
     public boolean isValidSudoku2(char[][] board) {
         Set<Character> rSet = new HashSet<>();
         Set<Character> cSet = new HashSet<>();
